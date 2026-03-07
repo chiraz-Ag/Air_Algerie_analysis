@@ -1,0 +1,812 @@
+﻿review_id,author,rating,text,date,month,thumbs_up,app_version,reply,replied_at,sentiment,topics,has_reply
+1c87f48e-857e-4f5c-b582-376004840106,Li Lou,5,سهلة الاستعمال و سلسة. الرجاء اضافة خيار دفع ثمن الحجز بعد التأكيد دون وجوب الذهاب للوكالة.,2026-02-21,2026-02,0,18.0.0,,,positif,autre,False
+405ea35e-ad61-404a-a083-dd3643ff659d,Sid ahmed Ben serradj,5,excellente,2026-02-13,2026-02,0,18.0.0,,,positif,autre,False
+dd7fd1a8-ad6a-4ca0-b0f3-77f3edd5d693,Abderrahmane Seghirate,2,cette aplication ne foctionne pas j'ai essaié pour m' enregitrai sans resultats,2026-02-13,2026-02,0,18.0.0,,,négatif,autre,False
+811e4509-aecd-4f77-97b9-fc570ad78544,sabah lamari,5,"je suis très contente du service Air Algérie. je l'avais pris au mois de décembre, sincèrement, j'avais remarqué plusieurs changements positifs. Bravo",2026-02-08,2026-02,3,18.0.0,,,positif,personnel,False
+becef00a-f432-4277-a988-bf1dcc05871b,Amina KT,3,"impossible d'effectuer de paiement en ligne avec la carte edahabia, numéro de réservation créé puis annulé.",2026-02-08,2026-02,0,18.0.0,,,neutre,"remboursement, site_app",False
+785ced1c-b702-444e-ba36-c70c5796cae2,Salim Blidi,5,bonne appli,2026-02-06,2026-02,0,16.0,,,positif,site_app,False
+0367eac5-b999-4e9d-8fe5-e5428b636fde,Salah Eddie,5,L'application est très bien conçue et répond facilement à de nombreuses questions.,2026-02-05,2026-02,0,17.0.0,,,positif,site_app,False
+27787695-9abb-4ea9-8620-6f34cc655ffc,Yacine Ayad,5,en bonne voie,2026-02-05,2026-02,0,17.0.0,,,positif,autre,False
+b6fff660-8698-4cf8-8a13-64bd80634345,Chab Chab,3,"bonne application et enregistrement en ligne pratique dommage que le service a l'aéroport sois une catastrophe le personnel agressif et désagréable c'est la réputation de air Algérie et je confirme que c'est vrai moins on a a faire avec eux mieux c'est ,donc organiser vous bien niveau bagage main ,soute et poids car ils ne vous font aucun cadeau contrairement a volet.. bref l'application vous sauve pour éviter le personnel au sol et au passage un petit en-cas dans l'avion vous oubliez ? c grave",2026-02-02,2026-02,2,18.0.0,,,neutre,"bagage, personnel, site_app",False
+fadaba9c-5159-4d39-a261-5934c86fcc56,nana BEN,5,Avec Air Algérie tout se passe très bien,2026-02-02,2026-02,0,16.0,,,positif,autre,False
+c3a1fe78-7d44-43ed-b05e-ed5afae51bc8,Rami Chahine,1,بالنسبة لخدمة العملاء، لايوجد أي رد منكم عند الاتصال بكم على الأرقام الموضوعة تحت تصرف الزبائن. هذا الأسبوع تم إلغاء رحلة بسبب سوء الأحوال الجوية ولم نجد أي توضيح من طرفكم هل سيتم تعويض الرحلة في وقت لاحق أو ألغيت بصفة نهائية... عند التقدم إلى مكاتبكم قاموا بإعطائنا رقم هاتف وبعد الاتصال به لم نجد أي رد بدون أي توضيح بالدارجة ڨعدنا نستناو في المطار و واحد مافهمنا اذا كاين رحلة في وقت لاحق ولا لالا ...,2026-02-01,2026-02,0,18.0.0,,,négatif,autre,False
+15e60f1d-777e-49cc-90ab-a5ec836e3c7a,Moustafa Gharbi,5,excellent sa fait plus d'un an que je m'en sers gain de temps et d'argent,2026-01-29,2026-01,0,,,,positif,autre,False
+9f36a0e0-0bf0-4917-9a7f-fa828cc28a4f,Transpétroliers Malik16,5,very good,2026-01-28,2026-01,0,18.0.0,,,positif,autre,False
+22bf5292-acc4-4022-a1d6-44b08f41d36a,Islam Azzo,5,10 sur 10,2026-01-27,2026-01,0,16.0,,,positif,autre,False
+79ad9a7c-ba01-4eb5-8d31-31c07e8b3887,Ali Nabti,1,Depuis hier soir je n'arrive pas à trouver comment m'enregistrer en ligne et réserver mon siège. Soit disant nouveau site. Tu parles ! Trop de blablas et peu d'actions pratiques.,2026-01-26,2026-01,0,,,,négatif,"site_app, confort",False
+113ba1eb-4f58-4813-9934-94d8d921c142,Lili Mounia,1,désolé mais je dois d'installer l'application pcq elle ne fonctionne plus comme avant à chaque fois ils me disent qu'il ya une erreur et je vois pas où est l'erreur avant de la mettre à jour elle fonctionne très très bien et maintenant elle me dégoute vraiment merci beaucoup pour votre echec,2026-01-25,2026-01,0,18.0.0,,,négatif,site_app,False
+1a238942-6227-4f57-9066-6af2a162d257,brahim djanti,4,"تطبيق Air Algérie تجربة ممتازة وبوابة رقمية سهّلت علينا الكثير؛ استعملته مئات المرات وكان دائماً في المستوى من حيث السرعة وتوفر المعلومات، مما جعل إجراءات السفر أكثر سلاسة وبساطة. لدي ملاحظة تقنية بسيطة أتمنى أخذها بعين الاعتبار لتطوير الخدمة: واجهت صعوبة في تغيير تاريخ الإقلاع بشكل فردي ضمن حجز عائلي مشترك، حيث اضطررت للقيام بذلك يدوياً بدلاً من التطبيق. نرجو توفير ميزة 'فصل المسافر' أو تعديل التذاكر الفردية داخل الحجز الجماعي لتكتمل روعة التطبيق. كل التوفيق لكم!""",2026-01-22,2026-01,0,18.0.0,,,positif,autre,False
+0609765f-c8ba-4ea4-b2a1-44fbc6959dba,Wassim,1,"corriger l'envoi du billet électronique,",2026-01-21,2026-01,1,18.0.0,,,négatif,autre,False
+764a15d4-0735-45b1-878d-e3474fa67960,Sid Ahmed,3,la application et bien sauf quelle ne donne pas toute les informations nécessaires ele devrait avoir un contact service client air Algérie et avoir notre billet électronique directement dessus ça faciliterait les choses moi je reçu par mail mon billet électronique en arabe je ne sais pas si ça va passer merci,2026-01-21,2026-01,0,18.0.0,,,neutre,"personnel, site_app",False
+3defc416-3632-4b07-bff0-c15f18f332df,belhenniche hamza,3,parfait,2026-01-20,2026-01,0,18.0.0,,,neutre,autre,False
+aa7ddd0a-fee5-4275-81fe-dc15862d7c8a,hamza abdellatif,1,la mise a jour bug après avoir sélectionné le pays et la langue le popup de surclassement apparaît à chaque lancement,2026-01-20,2026-01,0,18.0.0,,,négatif,site_app,False
+f2feb1b1-dd7f-4fcf-ba0f-ca3bdd67640c,Karim Soltani,5,fooooooooooort,2026-01-20,2026-01,0,18.0.0,,,positif,autre,False
+ac4b29dc-960e-4e7d-924a-4b06d22dd3bf,abderrahmane bessaih,5,"Très satisfait de la compagnie, des pilotes à la hauteur ainsi que le personnelles",2026-01-20,2026-01,0,18.0.0,,,positif,personnel,False
+e09976d3-c023-48e3-9668-9aa74d90c079,Amine Ait-ouyahia,1,surclassement??!!!?!?,2026-01-20,2026-01,0,12.0,,,négatif,autre,False
+15087a7d-43c7-4c29-9d8b-a821fdb898aa,Datefate Mimi,5,"c'est une très bonne application,elle fonctionne bien.",2026-01-20,2026-01,0,18.0.0,,,positif,site_app,False
+e1d19370-35b7-44a8-a332-69aade212d95,Moi Moi,5,très bien,2026-01-19,2026-01,0,,,,positif,autre,False
+5813346e-74f8-41a2-af20-3b65d60a04e4,Ines 23,5,Une bonne application,2026-01-19,2026-01,0,,,,positif,site_app,False
+cf74a2c2-168a-43f9-b853-e01bd3ea0a83,Larbi Bouarba,5,good 👍,2026-01-19,2026-01,0,,,,positif,autre,False
+b7c3fd9e-d08e-4bf8-8a67-2b8fa6194df1,RACHID,5,Vive AIR ALGÉRIE,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+f4e57ecd-a04d-474f-8a95-40b724fd3689,Soraya Rouainia,5,très bien,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+dedd7702-95c8-4aaa-89c5-cd958347414d,Reda Rahou,5,Application facile et efficace,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+ce0f941f-d849-4eb5-a0d2-1552789faf3b,Samir,1,la plus mauvaise compagnie aérienne.,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+1e88eae9-01c3-4c43-8637-4b63b5d50325,Latifa Saad,5,satisfaite,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+d00f8357-9d4a-4221-96c7-cedea07de514,Valerie Boukort,5,parfait,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+03df1332-a88f-48ce-b9f9-8dfe27ec1247,Lal Elhadi,4,rien a signaler tout est parfait,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+fe6b26bc-385a-4479-81f6-9f9b6da7fc4b,Mehdi Chelihi,5,ماشاء الله,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+8b911658-a18e-48ad-90a8-5f1dbb038cb0,Med-said,1,ne fonctionne plus,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+e18ebfdc-b2b4-4b51-8bcc-dcbaa796d1f0,Yacine MIZI OUALLAOUA,1,l'appli ne fonctionne plus demande mise a jour et aucune mise a jour n'est disponible,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+400ed738-e4ed-4682-90d8-3f3c98ee53db,RAOUF,5,très facile très clair et répond rapidement et très pratique bravo,2026-01-19,2026-01,0,,,,positif,autre,False
+59741b89-9aa6-407c-9fc1-b0c71acc8ec8,Bachir BOUKRIKA,4,très bien,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+491afe10-ae82-4315-8308-7f182fc67efb,Nado Chocho,4,👍🏻👍🏻👍🏻,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+839a09b5-709b-44e1-876e-3bbbb3c3b634,Amel Bouzid,2,j'arrive pas à installer la nouvelle application,2026-01-19,2026-01,0,,,,négatif,site_app,False
+b743f299-c693-4d7f-9f1d-465d510b5c98,Toufik Falek,5,اغلا تذكرة فالعالم,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+ce8b91d6-2439-4a08-99d5-674ba32515ca,FATHAMM,1,"impossible d accéder a la réservation. ne cesse de faire qu il faut télécharger la nouvelle mise a jour. ce que j ai fait au moins,20 fois et rien n y fait. impossible de réserver",2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+cdd6ee03-bea2-4138-9c01-8ebfd72f9a8d,Demini Naziha,5,rien a dire top,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+32c25e76-0220-4573-84f5-f8bd35cc609b,Samir Kraimia,5,j'aime bien 👍,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+fc17a7a0-1a8f-4d31-b3cf-571f8bcb11c9,Farid Hafsa,5,bien merci,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+0f60bba4-36f4-4835-82cb-5b7d7305e577,MOHAMMED KHODJA,4,très bien de puis 2 ans,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+612131ca-034e-47fc-ba5f-a168950d609a,Malcolm X,4,"bonjour, pourquoi je n'arrive pas utilisé l'application, ça me met surclassement et aucune mise a jour disponible svp?",2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+be0dbf1e-0208-4cec-a127-339836b86175,drmtrans drmtrans,1,impossible d'ouvrir Envoyé,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+26d4927f-2f6e-4dcb-a2c1-a1f06e87b507,Farida Farida,5,je voyage toujours avec air Algerie franchement je suis très satisfait,2026-01-19,2026-01,0,,,,positif,autre,False
+f902aa64-4bf6-43d1-b073-06c3cd1e3b76,Ad Hoc,5,correct,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+369368b9-639e-4c1d-8172-eb8a8cbaa3d0,Hamza Bougandoura,5,good and easy usage,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+b6c8155a-6b1d-4133-b7f8-5bcb592da6c2,Nathan YD,1,N'est pas simple,2026-01-19,2026-01,0,,,,négatif,autre,False
+db5341a7-5e33-4652-9446-469dea334509,Kellou Amel Saina,5,satisfaite,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+0b1cebcd-30db-4985-b738-9a854fba7a42,othmane smahi,1,elle marche pas elle demande une mise à jour mai ya pas,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+93bfcb36-47fa-47b8-8572-223d6dff4005,Aideli Karim,3,correct sans plus,2026-01-19,2026-01,0,18.0.0,,,neutre,autre,False
+cfff26e7-2f2b-4301-81b1-e1e144d50b08,Sofiane Hamdi,1,exelelent,2026-01-19,2026-01,0,,,,négatif,autre,False
+8b317bfc-d38c-451a-b309-b442cdad4a18,Abdesselam Metai,5,j'aime toujours voyager avec la compagnie AIR ALGÉRIE,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+2d554465-cebd-45af-b2af-8bf908c51507,medjaouel mounir,5,تطبيق جد فعال,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+57a93612-cbd6-43c7-b838-a17b99386f23,Nourredine La,5,"les prix sont très chères pendant les vacances scolaires ,dommage j'ai voulu descendre avec mes enfants",2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+eed4d6cd-561b-48e1-a904-393b84642a33,Nabil Kellal,5,pratique efficace,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+24e27ec0-3bf4-40b0-af96-cef6fcdb2d95,Lilia Demikha,5,très bien,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+7f6a7212-5434-4202-99fc-59e2521999d2,Touhami HASSANI,1,l'application ne fonctionne plus depuis le 19/01/2026 sur téléphone Android,2026-01-19,2026-01,0,15.0,,,négatif,site_app,False
+63bacd7d-4492-4da8-9e84-80a5bc5d1723,Alou Lou,1,comme d hab tout beug chez nous,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+7a6f3ace-4433-4b7c-9fb5-44e01addd7ad,Felous Hamid,4,très bon app merci beuco,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+5ec2a1ff-a429-4b4a-a797-376f7c2727cd,Said Me,1,تطبيق مميز,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+82a93805-2ba2-4bc3-b05c-746f7a7b1b55,yasser hamri,5,bien aplication pour rezrv,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+a1baca26-dfb5-42bf-b749-55abbce4cb29,Dhora Ghimouze,5,efficace,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+8f6fdde8-1984-4744-921c-bc64ddd96ba1,Mahmoud Kara,5,b0nne application,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+c01e5fd8-9e76-416f-8661-033637837009,Knex Ever,5,trs bien bravo l'équipe,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+caa1daec-66ff-4bca-9709-0105d04f6047,Meguenni,5,je suis contante de air algerie,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+4e2a5b71-13cc-4380-ba1d-0e2e8c352185,Zine Eddine Mokrani,5,j ai essayer,2026-01-19,2026-01,0,,,,positif,autre,False
+65a5de61-93cd-4461-bab5-25645b1fa616,Sadek El aktaa,3,je suis un client avec air Algérie et je voyage tout le temps avec eux depuis 20 ans,2026-01-19,2026-01,0,18.0.0,,,neutre,autre,False
+54353cec-07f8-487e-b008-1dc9820fc4fe,Hadj Latigui,3,je suis satisfait avec Air Algérie,2026-01-19,2026-01,0,18.0.0,,,neutre,autre,False
+feb19edb-51ec-491c-9fc3-74553e05f6fd,Rachid Maoui,5,facile d'utilisation,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+9e7503d3-9d15-470a-a9db-0ab51d946c0d,Biline Kukuyor,5,efficace pour les réservations et suivi,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+ae897e54-3cc6-45ed-93f3-f3438af98c08,Abdelali Achouri,5,bonne aventure,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+4e025490-8286-4f85-a819-8309fb181b98,Ouahid Boubou,2,l'application ne s'ouvre pas,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+527cd8ad-c5b0-4b99-82e3-6cfbb529368f,فيصل تلمسان,4,Très bonne,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+9db1bfd7-f29a-46ee-a29d-992ea8bdecb3,AMEL TIENTI,5,"Je suis toujours fidèle à la compagnie Air Algérie, je suis très satisfaite.",2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+3607a5a2-c4b4-4150-85f0-3b3f1f32d213,Mostefa Benmerabet,4,Génial,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+9ed1e160-1881-4b06-8403-b8232d80a02d,Farid Houamed,5,pas mieux que air Algérie,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+0dadbacc-2e61-4da1-89b4-b0fb4c8863a3,G KA,1,ne fontionne pas nul nul nul nul,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+c4f0000e-ba96-4d9f-a90d-28c1865681f2,Mohamed Malecabdou,5,ممتازة,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+9fff906d-3f35-4ad0-9216-9792906731f1,Tayeb Belaid,5,Cette application nous rendre un grand cervice,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+03675a76-cd91-4e71-aa37-7bdf9813b0c0,Ranya Ben,4,facile à utiliser,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+908b29e7-bf1f-49c7-8b8d-06bf3f177c34,Laroui Hamid,1,application obsolète,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+e27c26d5-ac67-4d53-8c8a-c501fd72886b,Nissa Bsdbz,1,énormément de bug,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+a3416210-7dc9-48e8-9e6b-ffd9b6f013c6,Melec Mimi,5,جيد جدا,2026-01-19,2026-01,0,15.0,,,positif,autre,False
+fcdcb478-ce22-4714-ac5a-889355ef2961,zawali w fhal,5,excellente,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+34216ef1-2093-4cee-ac20-a20e0de4647e,ali hammadi,5,parfait,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+b2c110e9-bad4-4422-b421-da90c01d59a9,MENZER Djamel,1,ou se trouve la mise à jour ??,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+809c222c-4cc7-4a7c-93d5-6b5e57bf0f6f,Mourad Hamahmi,5,impi câble,2026-01-19,2026-01,0,,,,positif,autre,False
+6c13ebfb-90c0-4c34-adc5-19f584cca059,Nab Nab,5,ça va en générale,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+8992cb82-0863-4b30-bd76-ae87b7c964a0,neila elhaouari,4,très pratique et facile d'utilisation,2026-01-19,2026-01,0,16.0,,,positif,autre,False
+9176dabe-0d10-4db3-82a8-5f327ce2d801,roua roua,5,تجربة ممتازة,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+d3178541-4e14-43fe-9ab6-b672fe0fcd72,Hak Kima,4,bonne expérience pas de problème.,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+ae2b5f70-54ec-4318-a821-c10ba30928f7,Cheikh Fatima,1,On ne peut pas se connecter. Je ne comprend pas.,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+bbfa9c89-f440-46a3-bdf6-6412218fdbfc,youcef hocine,5,très belle application,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+5135a441-b1a4-4710-8323-24f3ee6063fe,Djahida Bouzaroura,5,application facile sa nous permets d’acheter le billet qu’on veut merci beaucoup,2026-01-19,2026-01,0,,,,positif,site_app,False
+697fb043-1e62-4c8a-bbd2-49591a2647e8,Noufal Bourada,5,excellente application,2026-01-19,2026-01,0,,,,positif,site_app,False
+ce10d9ef-59ea-4a06-85ca-8fcda0363d95,SLIMANE CHABANE,4,très intéressant,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+52220836-187d-4c65-b9cb-91047e52fa0c,kheira metidji,5,très bonne expérience toujours fidèle,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+8fd22fa4-9763-4621-b1c0-3c8f2b4fc6d0,Rhim GaZelle,5,excellent,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+cad07c27-2020-4833-baf6-b79dcc5f1b32,lyes lyes,5,magnifique,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+26328e32-7b12-42f5-970f-85cf4277fbaf,Kassouara Kassouara,1,Disfonctionnement flagrant de l'application,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+5b33194f-9526-4957-a1b6-eee29d2a6b0d,Ammar BOUNAAS,5,"Depuis que j'ai installe cette application, je reserve avec beaucoup de facilite. Elle me permet aussi de chercher et trouver le meilleur tarif. Vraiment tres utile.",2026-01-19,2026-01,6,18.0.0,,,positif,site_app,False
+2dc5a7f9-649c-45f2-b839-65771e051d2a,Youssef Kebbi,5,parfait,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+e054c42c-2035-4351-844c-e9d12a57d84a,karim benstaali,1,"ne s ouvre pas , surclassement ?dommage",2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+64548c68-632e-41f7-a355-248c115e01ef,Bacha Benbachi,5,good 👍,2026-01-19,2026-01,0,11.0,,,positif,autre,False
+922e1ed4-5335-413b-ad32-739e694bcbda,mourad mekhtoub,4,fonction parfaitement mais ils manque beaucoup d'option,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+5b3fe1be-1c11-480f-b2d5-fdc5d3d0a435,Aici Akim,4,parfait,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+92869072-d146-47b7-851a-9858a281d897,Nadia Bouhenaf,1,"Cette application marchait très bien, là on me demande de mettre à jour et voilà qu'elle ne fonctionne plus",2026-01-19,2026-01,0,,,,négatif,site_app,False
+f165b56d-bea4-4105-9f0c-d6bf94b5d5ad,Brahim Latrache,5,Satisfait,2026-01-19,2026-01,0,,,,positif,autre,False
+8783aff1-12fc-45ca-9095-947bd562c27d,Yazid Hamdi,5,très bien 👍,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+a4ba82a8-a7ba-42c8-8e2e-c4e1968507cd,bkakchi elkhier,5,good app,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+aae7d2e5-ae88-4b6f-8789-d55474ebce2b,Samir Zennani,5,مليح يخصكم تزيدولنا كيفاه نبدلو الحجز في التطبيق,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+b7463223-432f-4d6f-9bf0-ba9df05d4818,Seddik B,5,bonne application,2026-01-19,2026-01,0,,,,positif,site_app,False
+6bd058a9-60f4-493a-af23-b31c704805bd,Rafik AZIZI,5,pratique sécurisée,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+232a1108-4539-490a-a9ce-b1ba81a27d36,Hamza Tlili,3,bien mais très lente et des fois elle beugue,2026-01-19,2026-01,0,18.0.0,,,neutre,autre,False
+598ba9bb-6e74-4a6e-b8a6-2f158ff71551,Seghir Mostafa,5,air Algérie ma compagne préfère merci beaucoup,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+e71a0791-91d3-45fc-ae8d-618b337a8d5b,Lotfi Hemiani,5,top très facile à utiliser et très pratique,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+b87b1422-57f5-455f-8b08-01d7eb809376,Fouzia Tahar,4,application simple et facile à utiliser.,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+c0ffc6e7-677d-416f-a8b3-8f15b9e181a5,Hakima BENIDIR,1,impossible de faire la mise à jour,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+64b723a4-fb40-48dc-8206-e3404bc19ac9,Chergui Fayçal,5,شكراً لكم,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+41e25cbb-b2c0-4ad1-888a-238b8d9660be,Ouss Ben,5,Très mauvais,2026-01-19,2026-01,0,13.0,,,positif,autre,False
+1636318c-7e30-4fa1-8dcf-4fef9910e078,Aissa T,1,"me dit que cette appli ne fonctionne plus , en rouge il y a marqué SURCLASSEMENT , j'ai désinstallé et réinstaller, toujours pareil",2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+1fa13ac1-fbbe-40dc-9c6a-94344ace354f,Menad Zohir,5,شكرا جزيلا,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+fb9659c1-9836-4fac-9b49-9bf4a5179185,HAFID Bouchetika,5,c'est une très belle application que j'utilise pour toute la famille,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+188cb105-38f4-4f9d-b6ce-d1ba5b505bb9,GRINE ARCH,1,service médiocre,2026-01-19,2026-01,0,18.0.0,,,négatif,personnel,False
+e65ba0cf-29cb-4cbf-b2b7-ab79f48001bb,merouane zaz21ms,5,"pas mal, problème des remboursements.",2026-01-19,2026-01,0,18.0.0,,,positif,remboursement,False
+3e2fff96-f576-4cfd-ae88-49876bf87378,ABDENNOUR Herarsi,1,top de top,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+9ce2763f-7de7-4718-b4d7-1401413a329e,Farid Chennaf,4,Bien 👍,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+5f2c5330-6edc-4118-9e67-cdfff1745132,Samir Mameri,5,très bonne app,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+921a8831-4bd1-4c1c-98c2-ee56a46032b5,Iyes Halim,4,je n'arrive pas à payer,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+eed82906-39bc-4c97-b1ea-fb6cbe3ae4ce,Malone Magdan,5,excellente application,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+372694a5-56d8-41eb-959c-2b41ff7ba55b,A Ladaouri (“A lada”),5,fort .confiance,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+ad76b66e-59a7-42d1-9819-96f18fd2b767,Mamar Benbrik,5,très bien,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+9231f2e1-c3ec-48d0-a590-bb9703b061b2,Ahmed hazem Charif,5,bien hmdlh,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+aefa1beb-6887-4fc4-b945-bc49c3158857,Bilel Kara,5,"Cette application m'aider beaucoup pendant mes voyages, soit intérieurement ou a l'étranger. Félicitations à vous.",2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+65dfa147-ebbe-488d-84f2-8272f9c748be,Ali Benabbas,1,l'application ne marche pas,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+f6e83e8d-7d65-46ac-8c67-c439071fce28,Rahmouni Nassim,3,très bon,2026-01-19,2026-01,0,,,,neutre,autre,False
+a3df85f8-fec6-4883-8ef6-e1a5e3944ef9,Lynda Malek,1,pire application de l'univers !,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+f4cf31a6-c1ea-4b08-a82f-2866eb96ca45,KISMILE KISMILE,4,très utile et pratique.esperant que prochainement on aura l'occasion pour s'inscrire dans la liste d'attente,2026-01-19,2026-01,0,18.0.0,,,positif,retard,False
+de8e5a84-2f72-40aa-b5d7-4c1341a4a73b,idris ichallal,1,on a pas de développeurs compétents en Algérie ?,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+022c427d-1938-4c3d-a105-5b5a28f5ba3a,Sunrise Tour,5,c'est bon,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+dafb4ec9-9125-4915-8bcc-37cb2e6b7a38,medini belili,5,magnifique accueil.,2026-01-19,2026-01,0,,,,positif,personnel,False
+64caa684-5839-447d-bef7-2795c4afb969,Will Léandre,2,"J'entre dans l'appli aujourd'hui et elle ne veut plus donner pourtant ça marchait hier, on me fait comprendre qu'il y'a surclassement que je dois faire la mise à jour et étrangement il n'y a aucune mise à jour. moi je dois voyager dans 4 jours cmt faire mtnt",2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+ebce5d87-2d7a-469d-88dc-c208776aa6ae,Amina Benharrat,5,très bien,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+8ff4c947-f83f-458a-87d9-dcf923d31ab9,nassima hamache,1,l'application propose une nouvelle version qu'on arrive même pas à télécharger,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+95d33364-b3d9-48a6-9c58-f9a711a20d41,Chaker Charf eddine,5,شكرااااااا,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+26fe5eec-2d0d-497f-8f1c-15bc569fb06b,Mounir Djerboua,5,très belle,2026-01-19,2026-01,0,,,,positif,autre,False
+ff490de6-477f-4013-a05c-cb1d92e3197a,Mohammed Bellahsene,5,très bonne,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+51176233-8edc-4db4-a7b9-24fdb2671c82,Fawzia,5,une application tres efficace,2026-01-19,2026-01,0,,,,positif,site_app,False
+6096af51-28cb-4941-b92e-4447b8c3cae9,bounia akim,1,trop cher les billets pour 2 heures de vol le système de réservation est trop compliqué,2026-01-19,2026-01,0,18.0.0,,,négatif,"retard, site_app",False
+87bff042-0e31-40e3-b162-486d25f1fce8,Amin Bouchelita,1,Sous le slogan، c'est toujours en retard.,2026-01-19,2026-01,0,18.0.0,,,négatif,retard,False
+2ab5304d-9144-43f3-8f6e-a88ba7d7a795,Lahcen Roukas,5,very nice,2026-01-19,2026-01,0,,,,positif,autre,False
+6af34ac5-6891-4185-adda-fdf69ee516c0,haffaf aimen,5,très bien,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+99af503c-12b9-4230-bebc-d7cdd616db0c,Ahmed Mehaddi,1,trop compliqué,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+3c7193f3-276b-46f2-a98a-014ce669abd2,Oussama Moulana,1,ne fonctionne pas. demande surclassement.,2026-01-19,2026-01,0,,,,négatif,autre,False
+456ab44b-cb66-4c1d-a979-8f38d64d9018,Regani Med salah,2,Parfois on veut acheter un billet sur l'application ça passe pas le paiement et pour récupérer votre paiement c'est une galère c'est décevant mes salutations.,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+c60fc26d-fe97-44d1-a71b-dc417b467239,adel belaid,5,belle application,2026-01-19,2026-01,0,,,,positif,site_app,False
+044b30c8-a649-4a1b-b89c-16967e39a3fa,houda houda,5,très bonne,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+0c0dc3e8-463c-4290-99b4-3fed111befbf,Moi Brahimo31_22,4,ماشاء الله عليكم موفقين ان شاء الله,2026-01-19,2026-01,0,,,,positif,autre,False
+e173e4fb-13f5-4533-b846-8e8b15731fac,Mourad Chaouche,5,attractive,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+62f5a132-7206-49fc-826f-f2579a635d1c,dadda benmoh,5,bonne application.,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+2aed5861-79a6-47d2-9b93-228c8b5446f4,Yacine Hamiti,5,"très efficace pour tt réservation et paiement en ligne, je la recommande.",2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+383aabd0-7838-4750-ac23-6ce3bc599f42,Seddik Aroufoune,3,très bonne application,2026-01-19,2026-01,0,18.0.0,,,neutre,site_app,False
+14c75bbe-d8b4-434d-a720-139d41cb51a2,Laila Abdli,5,super rien a dire,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+767df48a-f244-4b6b-822e-de6b7a70a32e,nasser senani,5,simple et facile à utiliser,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+f67e9ce6-bda3-4885-af20-512b4cd0d928,Billel Boy,5,très bonne application pour consulter les conditions de programme des vole formidable application,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+adece66b-0402-4637-a731-f020c5cd4442,Khokha Hrw,5,bien 👍,2026-01-19,2026-01,0,,,,positif,autre,False
+867c19c8-d09b-4e77-98da-2fd7f80945da,Mohamed Belabid,4,très bien,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+244106f8-feab-4b96-9511-46283143cbbc,abdelkader boucenna,4,Tout est normal.,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+2062915a-54bd-4349-8a78-fd9391a0688f,nina,1,L'application bug et ne marche pas 🙃😑,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+15ce8673-eecf-41af-8074-40cdbf1160a2,Zohra Sef,3,satisfaite le faite qu'il n y a pas de retard,2026-01-19,2026-01,0,18.0.0,,,neutre,retard,False
+370af1c3-f7ab-4ed4-827c-0c86d9b6e6d8,BESSADATE rachid,4,très pratique,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+083d1315-b744-4ac9-95aa-6389cbda9483,Rachid Atsou,1,fonctionne pas,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+0f22dff9-2a2d-4b05-a20d-92446d4d3f41,baraa khouni,5,très bon App,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+191f4ece-6868-411a-817d-58a3c7b379b1,Bouazza Mekidiche,1,très bien,2026-01-19,2026-01,0,16.0,,,négatif,autre,False
+629283b7-8052-4c3b-afac-cdb72c1f836e,Soulef Bougrara,3,pas mal,2026-01-19,2026-01,0,,,,neutre,autre,False
+0493eb0e-675d-4c8b-8e9f-af7058b56a9a,Karim Slimani,4,derniere version de l’appli j’ai recu un message me demandant de telecharger une version plus recente de l’app mais cela ne fonctionne pas j’ai desinstaller la version que j’avais puis j’ai telechargé l’appli mais j’ai toujours le meme message qui me dit de telecharger une version plus recente... qui peur m’aider svp ? merci,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+642c6845-dd71-451f-b827-2dd828339753,tcci Vip,1,le surclassement ne fonctionne pas et sa bloque l'application désinstaller et réinstaller toujours le même problème,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+44e4edac-c6c8-498b-a1b2-1fe515a2d592,issam sofiane Mahiou,1,il y a un problème avec l'application je viens de mettre a jour mon téléphone et depuis ils me disent (mise à niveau de l'application requise) que cette version n'est plus prise en charge . pour continuer vous devez procéder a la mise a niveau vers la version la plus récente. mais dès que je suis sur play store je fais mettre a jour rien ne se passe j'ai toujours le même message d'erreur.merci de faire votre possible pour réparer l'application qui était super génial vraiment rien a dire,2026-01-19,2026-01,2,18.0.0,,,négatif,site_app,False
+8af14c5b-f659-414d-8e15-5d0670b5f219,HAMRARAS KAMEL,1,elle ne fonctionne pas,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+058b0631-1d5d-44dc-a849-12dca48a3593,Hemmada Walid,5,من غير التاخرات كل شيء ما شاء الله,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+d6eb72f5-9b3a-45a9-b55c-7fe28adb7972,Nun gungun blanc,1,marche plus depuis 1semaine,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+56824566-267b-481c-b8f3-db10ba28ab0e,guedouar kouider,5,merci beaucoup,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+07e2fbc5-c3c5-4fc6-bd05-3fad91d3094e,sid hmd,5,tr bon application,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+bfac2b9b-3bbf-4431-9bbf-ff680a405ca5,rami berdja,5,ces tout simplement magnifique,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+cfbe99dd-92aa-4495-a1ed-3dcf0f880a0d,karim,1,l'application ne fonctionne plus impossible de faire la mise à jour,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+98a30ed2-d9ad-4bb9-8207-fc8295aceb23,Yousef Ait Cherif,5,a voir,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+be0d2447-21cc-4834-9822-d8fa7771b319,Deen Abboud,1,Marche quand ça veut.,2026-01-19,2026-01,0,,,,négatif,autre,False
+c0999c3a-6647-460f-a2c3-3656f987aa28,Samir Bounouara,5,bravo air algirie,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+058f9c2a-7bb5-45ad-a9d0-39d91b1f307d,Rahmani Hacene,5,application souple,2026-01-19,2026-01,0,,,,positif,site_app,False
+1ac0cbef-aec8-469d-b984-ab0f12dc0078,Abdelhalim AIT IDIR,1,"L'application demande une mise à jour, qui n'existe pas sur play store.",2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+ebc047da-301c-4dcc-ba00-22cdcdceabaa,Wassila Atar,5,bon travail 💪,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+5dbf9ba3-e6ac-4864-adde-0195d59428fe,Abderrahmane Tegguer,5,satisfaction,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+4f5d5817-2e05-4246-88c9-2cd045d7f418,Groupe Radjimi,5,t bien,2026-01-19,2026-01,0,,,,positif,autre,False
+b857894d-c32e-4353-9eea-85d62b9922d6,Ali Chaouche,2,ثقيلة بعض الشئ وتتوقف في كثير من الأوقات,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+a404826b-1007-413a-a7af-446321d24c80,Catalina Emma,5,très bien,2026-01-19,2026-01,0,,,,positif,autre,False
+a270b21d-db1b-4d59-b95a-7f341f8e7885,Soso Meksaggo (“So”),2,"ne fonctionne plus et pas de mise à jour, je ne comprends pas pourquoi elle marche plus.",2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+d7445aeb-5bdb-4a77-b079-50f56e5bd9b3,benattou zairi,5,Très bien et bonne soirée,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+b6cbc73b-dc4a-41ce-a2e6-4e2437ca8f1d,Rani L'italien,5,une très belle compagnie dans le monde,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+dd26abc6-fdd9-4487-863d-275cb28751d9,Bachir Bounoua,4,un peu cher les billets,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+bee946dd-d77e-4aea-93e7-fc77cdba99df,Абдул Раф,1,اسوء تطبيق,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+ff0e0175-2e95-4b95-9079-7ddee48e1b50,Sabiha Mestar,5,excellente,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+877a5a53-2c89-49b5-8d2d-c16652c75441,Ram Moh,5,très bonne application,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+61d45968-3bdc-4cd9-9ab7-35e4cc0bddc2,Farid Messafri,4,"demande de mise a jour, mais aucune mise à jour n'est possible",2026-01-19,2026-01,0,,,,positif,autre,False
+d6a36e69-afe0-422e-9920-5d9684a0db30,abdelkader benhamou,5,rien à dire,2026-01-19,2026-01,0,,,,positif,autre,False
+08a4e729-2719-40a1-89a0-3508814968e1,Nawel Lounis,5,fantastique,2026-01-19,2026-01,0,,,,positif,autre,False
+8ba80023-6e32-4ff6-82eb-4b0580b4638d,Belkacem Sait,5,très important,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+4c9d294a-9096-4201-8706-c81667a5b628,hakim yahiaoui,5,très bien serviable,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+0ad707e3-3037-4f9b-8f16-60122a55f653,Laravi Laravi,1,"ça bloque, demande un sur classement mais l'appli ne marche pas",2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+6619deb4-1f3b-4930-a4db-aede4017a00e,aissa hadj,1,ne fonctionne pas surclassement,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+e1796bfd-3107-4195-944d-67be3d5bbc70,zz zina,5,Formidable application 🌹🌹,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+cc872098-690a-4595-80ec-01c17bbb37ab,Chahla Saib,1,Il. Ne fonctionne pas,2026-01-19,2026-01,0,,,,négatif,autre,False
+e5dbef35-9207-43ba-a7a0-6a93ca7ea636,Malik Safi,5,j'arrive pas à accéder,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+3b3aca7f-c3d5-4710-a006-69c6795fb03f,TAREK H,1,medicore miseajour impossible,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+1c23adf8-5178-4ca4-906f-2bcc52284cdd,Samir BELAL,5,bonne application,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+f1ac8143-f0f1-4c3d-85a7-a47b0ae1d5c6,Ghazali Elh,2,"je pense a un bug,impossible de mettre à jour une nouvelle version",2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+6e3e1bdf-5447-40fa-bd5c-9901dbc980c0,Wali Wali,1,j'arrive pas ouvrir l'application c nul,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+f40fe0bb-7fd3-48bb-a858-227f2b7d4672,Amin Laalou,5,très bien,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+732bed6e-6723-47e1-969b-e0a32444ec7a,Jack,3,l'application bug et nous envoie vers mise à jour... sauf qu’il n’y à pas de mise à jour. android 16.,2026-01-19,2026-01,0,18.0.0,,,neutre,site_app,False
+50c4374b-11d6-4945-b8f1-6b856c20b341,Madjid Chebah,5,impecable,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+da5a1b25-6459-44a3-9b3e-82f8e3483797,Kamel Bourakba,4,bon application,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+9c35ae27-e642-4214-afb3-7c0625b42d62,Khemissi Chamekh,1,médiocre,2026-01-19,2026-01,0,,,,négatif,autre,False
+64bb23aa-ca94-4da6-b4b8-afbb53f9bf86,Loucif Ihaddaden,5,très bon air Algérie,2026-01-19,2026-01,0,,,,positif,autre,False
+749e0ae1-e5b7-4909-ae14-45ff14cf5aa4,walid.zozo@hotmail.com wiwido,3,une application pas mal mais pour acheter une valise en plus au retour il te compte l aller pas le retour tu paie en euros,2026-01-19,2026-01,0,18.0.0,,,neutre,"bagage, site_app",False
+9f862300-cc78-4bec-a6b6-bcea6114cdb7,Rafik Bouhezila,1,du n'importe quoi cette application,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+a85047dc-be69-4153-a8fc-ba8b0cff58b8,toto michel,5,l'application il est impeccable,2026-01-19,2026-01,0,,,,positif,site_app,False
+09026072-cdd9-4367-891d-71a22c7be0d7,Nadia Guiza,5,tout fonctionne correctement . très contente de l'application Air Algérie j'en suis ravie et l'utilise régulièrement dès que possible,2026-01-19,2026-01,3,18.0.0,,,positif,site_app,False
+2cea7e4a-701c-4332-8126-860e41023cf2,Rachid Yousfi,5,bien 👍👍👍,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+c995e3ce-ff45-4f0c-b432-62011d841903,Abelmsirda Abelmsirda,5,ponctuation et services irréprochables,2026-01-19,2026-01,0,18.0.0,,,positif,personnel,False
+4d397f97-8274-422d-92c0-a5532fc53304,Kamel Hanouh,5,sa marche top,2026-01-19,2026-01,0,,,,positif,autre,False
+ee4f0963-d86d-4906-8721-616c88edc727,fathi kamel,5,bon courage,2026-01-19,2026-01,0,,,,positif,autre,False
+95039122-6021-41d0-ac45-9ae4df2ff1cf,ATTIA ABDELALI,3,excellent,2026-01-19,2026-01,0,18.0.0,,,neutre,autre,False
+2ed6751e-a564-4f9b-8baa-7f64caac1806,Amine Hamidi,1,"je n'arrive pas a accéder a l'application il me demande de mettre la mise a jour, alors qu'il n y a aucune mise a jour",2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+5d7b40bb-0d24-4f2b-bbca-0a3fa0c50860,Bel Kis,1,Impossible d'ouvrir l'application après une mise à jour aujourd'hui 19 janvier !!,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+3417c20c-f062-49c0-b919-07f9b902b45a,Habiba Amarrouana,5,une application bien mais les prix trop élevé,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+039cd47b-d2f0-4317-9f9e-668f58e9f792,Fares Nasri,5,bonjour Merci aire Algérie,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+80fa705b-eaa2-4e2e-b8fe-ee61246e770b,Sya Shr,2,l'application ne fonctionne plus...,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+302aa978-1083-46c3-ab84-c976cb3cda4a,Berrabah Hamid,5,très bien,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+75d1cbeb-ff98-4916-929e-af1936290343,Hamdi Ahmed,4,genial. mais ya perturbation parfois,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+3efd3d9a-331f-48f6-8716-08e4a59691cb,Oumehani BOURAHLA,3,Le site n'est pas à jour,2026-01-19,2026-01,0,18.0.0,,,neutre,site_app,False
+99a3e2cb-754f-4817-b19b-e7f37745996f,Faloug Fa,5,facile efficace,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+ef7e39f8-7e1c-455e-913c-22bf2bda6d67,mohammed tahar Hassani,1,il demende une update qui nexiste pas .il ne fonctione pas,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+7517c16a-dbd3-494c-a13a-b1fb345045b1,Ghaouti Dellal,5,Une bonne application,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+3e53da52-59d4-4cc3-9734-6ff7f343961b,Benaissa Bedroun,5,très bien merci,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+3c5390f0-79b9-4929-8b4a-72a20a670e2b,benzita mustapha,1,الترقية للبرمجية الجديدة لا تعمل,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+9d2ab03d-3f7e-4a43-b153-7cbd38341e0e,Azlaoui Aziz,1,A failed app that doesn't work when you need it most.,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+49be9a29-323a-480f-a0de-7f5bd20f099a,Boughenama Abdelbasset,5,transparence totale fixibillité pour tout les service,2026-01-19,2026-01,0,18.0.0,,,positif,personnel,False
+cebf9fae-9b73-4146-97ab-3d6b49ed3fae,Mohamed LEKHEL,4,normal,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+062b8998-facb-47d5-aad0-d8ec8c5bbcd4,Adda Chentouf,1,impossible de mettre l'application en service,2026-01-19,2026-01,0,,,,négatif,"personnel, site_app",False
+77087001-cf5e-4fbd-a735-44e18a803c5a,Sellami Khelifa,5,Très bien,2026-01-19,2026-01,0,16.0,,,positif,autre,False
+bf5dca07-21c2-4be7-9af2-67d764653db8,Belhadj Bedredine,5,très bonne application,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+ebfbebf9-e1d4-4d43-b4cf-30de8b6677f0,Rafik Oudghiri,1,imparfait,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+6870a278-7e94-42dd-a0f0-af9b829eb9f7,salim hamedi,5,Très bonnes services,2026-01-19,2026-01,0,,,,positif,personnel,False
+d6ba698d-cc13-43eb-b58e-cbfbe9c62ef7,Aklouche Mo,5,très bonne application,2026-01-19,2026-01,0,16.0,,,positif,site_app,False
+696cdd5d-5f75-4aa6-a2b4-3dccafe31a50,Debbah Lakhdar,5,application utile et nécessaire facile a utiliser et surtout très pratique,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+58c0f938-e105-408b-8339-67907c6103f3,Rayane Moussa,2,j'ai un bug ça me dit que la version que j'ai téléchargé n'est pas prise en charge or c'est la version la plus récente que j'ai téléchargé.,2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+3c36fc30-48c1-41c1-9ff6-12de510a56f8,Laouar Abdelkader,5,efficace,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+4314684e-2722-485f-b5c3-61e82600b8e1,halilmoh1,3,application pratique pour une réservation instantanée. le seul problème est le payement avec la carte postale dahabia. quand ça bug c la mère.,2026-01-19,2026-01,0,18.0.0,,,neutre,site_app,False
+fc4d6f65-6ef4-4410-a05f-bd397f3a637a,Dah Maw,5,très bien,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+e8e54d06-122e-4696-8442-2366f5f820ec,Nabahat Benasid,5,facile a acceder bonne promo,2026-01-19,2026-01,0,,,,positif,autre,False
+fc4ee0a1-d0b0-4246-8084-c8dcc2512981,Najate Djelloul,5,parfait 👍 👍 👍,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+b2efcca3-669a-4cce-8ba5-9d4024e2fd3f,Mehdi Sofiane Belhaoua,4,très pratique,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+505a3147-aa93-4d15-be61-bf7613b849c6,kacemi mhammed,4,c'est pratique et efficace,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+95081bf5-6b5f-4f7b-a930-af95c8a81e2a,Lakhdar Lomani,5,très bonne,2026-01-19,2026-01,0,16.0,,,positif,autre,False
+4ac9cdf0-43f1-4334-9fd1-4fb60bbc835d,Bouhal Hocine,5,Très bien,2026-01-19,2026-01,0,,,,positif,autre,False
+5ac7a164-0e34-4da4-b52d-580d66368a6c,Bouabdallah Belkateb,5,tre bonne application,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+317b4b8d-dc85-4e6a-a9f8-1f682f753e19,Chawki Taleb,5,Très Bien.,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+1408299c-9386-47dd-9a71-7f9095987c3e,Abdelhaq Chaibeddour,5,il ya un problème je n'arrive pas y accéder,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+b7eeb3da-9ede-4ef3-ada7-a70a744786f6,Nour Ikram,1,"blocked,not working due to upgrade",2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+126cdd64-ed30-4b5e-9277-6ce39404f4a8,Rémi Rémi,5,"application très simple de fonctionnement, rapide",2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+d3aa3307-dbe1-4423-b323-1ce9058582d5,Nour Bouzida,4,I like air algérie,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+8fa830f6-ba32-414e-8a39-c2e8cfb234ee,Hamza Fouad,5,هذي لابليكاسيون فور تاعون بزاف,2026-01-19,2026-01,0,,,,positif,autre,False
+955d2ee2-3e7f-4ff9-a90b-08c3a073c696,tiks tiks,1,"Application basique à part réserver un vol, le reste à améliorer.. Changement de dates par exp",2026-01-19,2026-01,0,18.0.0,,,négatif,site_app,False
+b51fdc8d-a102-422a-a949-317a597ca959,tak bey,4,Formidable,2026-01-19,2026-01,0,,,,positif,autre,False
+0df56abc-6420-4aa8-81fe-0fdeaf358a48,بوجمعة واوان,5,تطبيق رائع جداً وسهل الإستخدام,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+c6dd601b-6d8b-4697-bf2b-a8cdc9ec558b,Madfrance Samy,5,une bonne compagner,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+8d5f0704-09f9-4918-96f3-4df6f210d23b,Fadhila Nebbache,5,très bonne application,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+5eafcf30-13d2-40e0-a61c-561046e7a778,Essahli Hizya,5,toooooop,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+c086fd3f-83c9-4a1c-9b90-bbf903e83ba1,Tariq Korichi,5,Merci pour votre service,2026-01-19,2026-01,0,,,,positif,personnel,False
+20c7fa01-cc4c-4791-bbb8-181053b073df,maamar kaddour amraoui,3,je suis très satisfait de 🤟 vous services,2026-01-19,2026-01,0,18.0.0,,,neutre,personnel,False
+74e79f48-3525-460f-aaff-bfe3cabdb8de,Dem Am,1,Ne se télécharge pas Android,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+65b21e03-cccf-49e1-9301-2706ab79a09d,Zakaria Bouzar,5,je suis content pour cette application ☺️,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+d18c559a-cac4-43a3-afcf-2374d11edfee,Hamza Boureghdad,5,Des billets moin cher c'est bien merci,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+afc739f4-f6b2-4c55-b813-8d0eecdb92c1,Charef Tawfiq,1,Sa marche pas,2026-01-19,2026-01,0,,,,négatif,autre,False
+4db35113-ba5f-43c8-8982-59939c69f6de,SELMA FOUDALA,1,je n'arrive pas a faire la mise a jour pour pouvoir reserver!!!,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+db4dca54-3989-444c-b0be-925dc22baed0,Zinedine Tbahriti,5,j'ai toujours pris air Algérie tranquille koi,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+52ed0364-c6e7-47cf-ba68-37a65463f416,Mohammed Regab,5,bonne continuation,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+a3e4998d-f556-4e28-b39e-5b9046fe2fb6,Faïz H.,4,"appli précise mais qui a quelques beugs cependant, surtout sur la catégorie état du vol en direct sinon appli pratique je recommande N'oubliez pas de bien garder les prix plutôt bas, je vous en remercie d'avance !",2026-01-19,2026-01,7,18.0.0,,,positif,site_app,False
+7b096d12-61ae-4e60-9ddb-e1a313134910,Faraman Skandar,1,"pour le moment Elle ne fonctionne pas,c'est bizarre!?",2026-01-19,2026-01,0,,,,négatif,autre,False
+e11bd4d5-429d-4f13-87b7-7ae3704968e0,Kenouni Rania,3,c'est bien,2026-01-19,2026-01,0,18.0.0,,,neutre,autre,False
+c410a504-929e-4a9e-b725-d6baedef2d1f,rabah Yousfi,5,belle application,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+fe78f6c4-9f9f-4b49-9429-d00e30c1f522,Rachid Seghir,1,Impossible d'effectuer la mise a jour,2026-01-19,2026-01,0,18.0.0,,,négatif,autre,False
+7815f5bb-860c-4fa0-9f9c-f814e861f622,Abdelkrim Okbi,5,elle est très utile,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+6976b096-53df-4bef-99bd-3f38f7969c63,Mhammed Bghawa,4,tres faclie et efficace surtout l'application repond vite,2026-01-19,2026-01,0,18.0.0,,,positif,site_app,False
+8689d33f-ac64-43b0-bdda-740313bfe049,Faris Kerbouche,5,super app,2026-01-19,2026-01,0,18.0.0,,,positif,autre,False
+96ac8696-abcd-427b-a7b0-7f12abb1b48f,Hakim Yakouben,3,satisfait,2026-01-19,2026-01,0,18.0.0,,,neutre,autre,False
+08a0f584-4926-447b-bb52-bb5109bf9bcb,momo youn,5,très facile et efficace surtout l'application répond vite,2026-01-03,2026-01,163,18.0.0,,,positif,site_app,False
+535cb929-8041-49b5-9eb1-1011dbdfb42f,Ang Ela,1,I biglietti sono costosi e l'aereo non parte in orario 🙄,2026-01-02,2026-01,0,,,,négatif,autre,False
+16f4d41c-d4d2-45c1-981d-7d4fe4d30058,Hichem Meddahi,5,"Excellent travail, cette application nous a aidé",2025-12-30,2025-12,0,18.0.0,,,positif,site_app,False
+2f0c0759-8779-4290-a066-26459adaf13b,Anas Svr,1,تطبيق فاشل,2025-12-27,2025-12,0,,,,négatif,autre,False
+4885100a-7f7d-4ba5-b0b5-2194acbc7d17,khelifa abour,4,très belle,2025-12-26,2025-12,0,18.0.0,,,positif,autre,False
+5e3d4d60-ab84-44a1-8d71-58bf537e0594,CANADA-AMS,1,"Impossible de modifier un vol ou d’avoir de l’aide, cette application est une honte !",2025-12-18,2025-12,124,18.0.0,,,négatif,site_app,False
+0c8c078b-42e5-4813-9bd6-052f674850c4,Nabil Khalfouni,5,agréable,2025-12-13,2025-12,0,16.0,,,positif,autre,False
+92f8aefd-d855-464e-aa7c-fe79fbc24586,Youcef Mahboub,1,أسوء خطوط جوية على الإطلاق، لا إحترام للمواعيد، ولا إحترام للزبائن. 😡😡😡😡😡,2025-12-04,2025-12,0,16.0,,,négatif,autre,False
+68f1a195-ff43-4831-b674-0e97d2299a0b,Djenidi Benhouili,5,très bien merci beaucoup,2025-11-28,2025-11,0,17.0.0,,,positif,autre,False
+cedc43e9-a4aa-4056-9092-1757852091e2,BELGAID KARIM,2,les prox sont catastrophique,2025-11-23,2025-11,0,18.0.0,,,négatif,autre,False
+4269e746-2874-405a-a704-a5ec092117f3,عبد الحق صلعة,3,normal,2025-11-18,2025-11,0,,,,neutre,autre,False
+dd8140a3-28fd-4373-a59b-b26193f2f660,Bruno Ben,1,"on dirait une application faite par des amateurs de programmation, fonctionne rarement beug souvent, amateurisme débile et enfantin pour une si grande compagnie, ils feraient mieux de porter des nez de clown au lieu de leurs cravates",2025-11-18,2025-11,3,17.0.0,,,négatif,site_app,False
+8bd480ae-6eea-479b-9190-58c0950d00d2,Djamel Paris,5,Une application fonctionnelle . les prix proposés sont très élevés même en période creuse.,2025-11-16,2025-11,134,17.0.0,,,positif,site_app,False
+fd44768e-e21c-48a1-ab3a-639249f35216,Sarra Drani,1,"l’application ne marche pas, elle bloque au moment du paiement, vous avez débité la somme par contre rien reçu, et pas de remboursement a l’instant!",2025-11-14,2025-11,25,17.0.0,,,négatif,"remboursement, site_app",False
+3f85b5fb-4be7-4024-a746-c0ed6129f4b5,Sami Amir,1,خدمات سيئة جدا تتم خصم المبلغ للزبائن بدون تعويض من الشركة,2025-11-13,2025-11,1,17.0.0,,,négatif,autre,False
+51844f6f-2dda-466b-bfc2-ba2db87ae50c,mokrane fadila,5,très bon accueil et service un peu la nourriture,2025-11-05,2025-11,4,17.0.0,,,positif,"personnel, nourriture",False
+bcf3decc-a8cd-4dc8-bfb9-fc253b5d4ad0,Safi Sabrina,1,rien ne fonctionne dommage,2025-10-30,2025-10,1,16.0,,,négatif,autre,False
+f068abd5-e580-4dfb-811b-543f2d16df8c,Houda Benmicia,1,Le montant de ma reservation a été débité de mon compte alors que l'application m'a affiché difficulté pour valider le paiement !!!,2025-10-28,2025-10,1,16.0,,,négatif,site_app,False
+73942c75-9e91-4cfb-b2f7-f1d8a8b16f5f,Amin Hako,1,l'application ne marche pas tout le temps erreur erreur c'est nul,2025-10-26,2025-10,1,,,,négatif,site_app,False
+8f5516a3-9b30-46e7-a32c-da257b81f68a,Saliha Bendjerba,1,putting c nil vote application de merge,2025-10-18,2025-10,1,,,,négatif,site_app,False
+c8521cb8-698f-42bd-a2eb-760a76d76d47,Belbachir Mohamed El Amin,1,في حال إلغيت الرحلة لا يتم تعويضك,2025-10-12,2025-10,1,16.0,,,négatif,autre,False
+62561272-3df4-48de-a6e4-7a384b78b60b,Vindex Vindicem,2,"Pas très pratique, pour changer de date, rajouter un bagage supplémentaire. Pour les réservations il n'est pas tres intuitif.",2025-10-12,2025-10,0,16.0,,,négatif,"bagage, site_app",False
+639ca930-55dc-4d06-abbb-b6f6151374d3,Wenja Wenjaby,1,crap compagny,2025-09-28,2025-09,1,,,,négatif,autre,False
+2b65fba3-60f7-4107-bee6-c6f0a0a49cbe,Emmet Brown,3,"La fonction ''jours flexible'' ne semble pas marcher lors d'une recherche.Au jours choisis,si il n'y pas de vols un message d'erreur s'affiche et il faut revenir en arrière et tout recommencer. Le pire bug = dans son suivi de vol il est indiqué ''l'enregistrement FERME dans 3 heures par exemple alors qu'il devrait indiquer=OUVRE dans 3 heures. la fonction est inversée🤦.",2025-09-28,2025-09,9,16.0,,,neutre,"retard, site_app",False
+bc98a6d0-0490-4b8a-9464-1d136e5f1aec,belmokeddem abdelhak,1,برنامج فاشل,2025-09-25,2025-09,1,16.0,,,négatif,autre,False
+e0e5c0c3-93b8-42a5-93c1-d740ec0e5b12,hakos gat,1,tarif trop chère,2025-09-09,2025-09,1,16.0,,,négatif,autre,False
+7db9972b-a2db-4ee0-b669-0bf7117ec4ff,Tî Fô,1,أسوء شركة نقل جوي في العالم من كل النواحي ،التأخرات الدائمة تصل إلى 24 ساعة ،المعاملة الرديىء من طرف العمال . و كل هذا و بدون أي مبررات من الشركة الله يذلكم,2025-09-08,2025-09,1,16.0,,,négatif,autre,False
+fbee5e68-1454-4721-9fe9-a9fc57f84125,عقبة ابن نافع,1,تطبيق باءس مثل الشركة ...والله يجعل عيشتنا في لبلاد كفارة,2025-09-08,2025-09,1,16.0,,,négatif,autre,False
+dac2c18c-f51a-460f-8809-643f944138e1,Hssen Babaslimane,5,excellent,2025-09-08,2025-09,0,16.0,,,positif,autre,False
+af646f5e-dd8a-4ea5-82e1-980abab43ec7,Fatiha Ait Ammar,1,No voy a volver a reservar con ésta Compañía es la última vez con el tardar que tiene para mi no sirve para nada,2025-09-06,2025-09,1,,,,négatif,retard,False
+624d63da-268f-422b-8bc8-b456cf487e04,SELMANI Mohamed,1,"La pire compagne aérienne des tout les temps des très grands voleurs et de plus ne sont pas professionnels. Je me pose la question pour les prenne leurs vol avec eux. J'ai réservé business classe 15h20 vol annulé, remplacer avec un autre à 18h20 et en plus m'ont donné une place économique et la meilleure le vol il à fait retard de 2 h . ils m'ont pas donné l'attestation du retard et de déclacement et je ne suis pas remboursée..",2025-08-31,2025-08,7,16.0,,,négatif,"retard, remboursement, confort",False
+b4d3d009-9a5d-41a1-8e2b-a7127f0063e5,Djawad Kadar,5,ماشاءالله .مزيد من التقدم والشفافية. خاصة العروض,2025-08-25,2025-08,0,16.0,,,positif,autre,False
+248aa6a3-8d92-4c31-b181-27f631b6a3ad,Amino mino Amin,5,شكراً ❤️,2025-08-23,2025-08,0,,,,positif,autre,False
+bcb9efbe-c6aa-4fe9-9278-5ea993e5058e,Abdelghani Boutouaba,1,c'est peut être le moment de régler l'application,2025-08-21,2025-08,1,16.0,,,négatif,site_app,False
+b5773d8f-eecf-4a9c-a0e0-1561f0d5b538,Abdallahi Lbs,1,"L’application est difficile à utiliser. Cela fait deux jours que j’essaie de réserver, mais je n’arrive pas à accéder à la page de paiement. Merci de corriger ce problème.",2025-08-18,2025-08,2,,,,négatif,site_app,False
+f3a252f5-dabc-4d9b-8e13-86631cc8da32,Djillali Zaidi,4,تطبيق جيد,2025-08-11,2025-08,0,,,,positif,autre,False
+ef4ed012-0e58-41e8-947e-02b97d2b4d6b,A. JEWEL,1,"sévices pas à hauteur , vol aujourd'hui depuis Oran , arrivée à bord de l'avion je trouve les 5 places réservé pour ma famille occupés par d'autre passager , je fais réclamation aux chef de cabine, il me dit qu'air algerie ne fais pas le seating, ( places réservés depuis 3vmois ) dommage l'anarchie demeure et rien ne change.",2025-08-10,2025-08,10,16.0,,,négatif,confort,False
+ab80f88e-948d-43f9-93b0-8d25ca3f54d1,Bouharaoua Abderrahim,5,تطبيق جيد,2025-08-07,2025-08,0,16.0,,,positif,autre,False
+4545fc8e-4ff9-4f9e-8078-820afd42bf00,Abdellatif Bouiba,1,application bien mais le service de la companie air algérie est nulle tjrd des retards dans les vols surtout les vols à destination du sud ain salah touggourt tamanrasset 🤬😡😡,2025-08-06,2025-08,1,,,,négatif,"retard, personnel, site_app",False
+ecb29d45-274f-465d-8fec-1ca0e17b9d42,MohaMed 3aSsali,5,صدق والمصدقية,2025-08-06,2025-08,0,,,,positif,autre,False
+cf8e07e8-cce9-4583-93fd-d0d809632c46,mokrane talmat amar,1,Bonjour connaître les vols davion prix à partir du 15 Août,2025-08-05,2025-08,1,16.0,,,négatif,autre,False
+da363e45-d4b1-4e31-94ff-7a073381d02c,nordini rahmi,5,bonjour très bonne compagnie le repas le meilleur de tous les compagnie et aussi l'accueil,2025-08-03,2025-08,1,16.0,,,positif,"personnel, nourriture",False
+20d015f9-06c9-4302-90ed-edcff0706ca9,Tayeb Hariche,3,peut faire mieux,2025-08-02,2025-08,0,16.0,,,neutre,autre,False
+7a5cbfef-d4c7-453b-9b2c-3484482c3e58,Amar Errachidi,5,magnifique,2025-07-30,2025-07,0,,,,positif,autre,False
+172e06ec-a1fb-4ad0-90a2-27d497e49d3a,Abou alaz zizou,5,parfaite,2025-07-25,2025-07,0,16.0,,,positif,autre,False
+87476228-0c6d-421e-884d-f9ddf607c644,Mohammed Mabrouki,5,très bonne,2025-07-20,2025-07,0,,,,positif,autre,False
+7cb6671a-4743-4fc6-bb0d-d3c10fea6062,Salima Berkani,5,formidable,2025-07-20,2025-07,0,16.0,,,positif,autre,False
+2a2cad44-5239-40a4-addc-2f29155ec893,Fatiha Tahraoui,5,très bien,2025-07-14,2025-07,0,,,,positif,autre,False
+f62039ae-82c5-4a8f-8b4e-b72571086f26,Firtox,1,"peut être décaler de 2H chaque vol pour éviter les ""retards""",2025-07-13,2025-07,1,16.0,,,négatif,retard,False
+0a6b3d12-7351-4c72-8a50-021a64ffade5,bassem bassem,1,تطبيق سيء للغاية لا يعمل في كثير من الأحيان يتوقف فجأة لا أنصح به,2025-07-09,2025-07,1,16.0,,,négatif,autre,False
+4980319f-315a-40e2-9b8c-ee4fabd480ba,Khaled Seghir,5,bon application,2025-07-08,2025-07,0,16.0,,,positif,site_app,False
+2662fb68-192e-4859-8850-15923ccf0b12,Yasmina Yasmina2,5,Good experience,2025-07-01,2025-07,0,16.0,,,positif,autre,False
+5f7d5b0e-1ba1-4085-aa92-38ff01fd7356,Rachid Ouadah,5,bon accueil,2025-06-24,2025-06,0,,,,positif,personnel,False
+eaaddb93-4bea-46ca-9b5f-aa7e2835c9e8,Ouahed Ouahdou,1,"bonjour, vos prix sont à vomir c'est pas tout le monde qui peut voyager avec vous. franchement depuis des années vous plumez les gens, avec vos prix je peux aller au Etats Unis et en plus moins cher que vous. vous prenez les gens pour des pigeons.",2025-06-21,2025-06,1,,,,négatif,autre,False
+4a1f36db-d275-435e-9fc1-874753d9e65c,Bennaoum Brahim,1,والله مايصلح....راني متمني نشوف حاجة مليحة في بلادي,2025-06-17,2025-06,1,16.0,,,négatif,autre,False
+ae670742-b760-4c30-a6f4-9ad84a913d6d,Salim Exagoal,1,ayaa la matinée dkhalt nchouf elle marche bien l'application mais le site marche pas 23h dkhalt n confirme le vol dyali application marche pas le site marche pas,2025-06-14,2025-06,2,16.0,,,négatif,site_app,False
+85d357ae-5bb8-4619-bde9-69984f196aec,Louza Louza,4,جميل جدا,2025-06-14,2025-06,0,16.0,,,positif,autre,False
+e10833c3-7b12-4b2e-adf7-daa5a7a87799,Med Mera,5,مقبولة إلى أبعد الحدود 7/10,2025-06-14,2025-06,0,,,,positif,autre,False
+265a2782-87be-4c42-88e5-7b688c26ef11,Parisienne,1,Comme d'hab c'est patience et longueur de temps.... panne maintenance identifiant inconnu et Algérieplus par mail c'est le vide sidéral...,2025-06-13,2025-06,1,16.0,,,négatif,autre,False
+1d6ebba1-b565-4c21-b826-cc6ca2044f2b,Nidal royal,1,لا استطيع رؤية تواريخ التذاكر التطبيق ثقيل,2025-06-13,2025-06,1,,,,négatif,autre,False
+48b8beda-4b72-4673-bceb-1549a62723f3,Sofiane Sofiane,5,bonne application,2025-06-13,2025-06,0,,,,positif,site_app,False
+f506a4f1-71f4-408b-8a50-18482955a008,daho Benyakhou,5,chaba bezafe,2025-06-12,2025-06,1,16.0,,,positif,autre,False
+1bfbaab4-b1fc-4f36-b496-1052fc1d500a,Mellak Mohamed,5,magnifique,2025-05-28,2025-05,0,16.0,,,positif,autre,False
+3a10c1ea-c4b3-4f05-9b11-d386b4400910,Ahlem Melkia,1,Est ce que quelqu'un sait comment on ajoute des bagages dans cette appli ou sur leur site ? Aucune indication On peut ajouter des bagages dans notre réservation ou pas ?,2025-05-22,2025-05,8,16.0,,,négatif,"bagage, site_app",False
+457f27cc-d047-453d-91bd-7ef5536da03f,وطني الغالي,1,"9 heure de vol vers les les États-Unis, à 350€ vers l'Algérie à 400€une compagnie de voleurs.",2025-05-20,2025-05,1,,,,négatif,retard,False
+c0b0b5d2-986f-43ec-95b3-4eba771beed3,yenna19 malika,5,hamdoul'Allah,2025-05-20,2025-05,0,16.0,,,positif,autre,False
+f418f94a-cddf-41c8-8401-04bbc4d4df49,Youcef Zaidi,1,c est nul impossible d y avoir acces,2025-05-17,2025-05,1,16.0,,,négatif,autre,False
+99fe4d8e-cd4d-45fa-8767-9a664da97de6,OTMANE Djamel,5,diable MACHAA ALLAH,2025-05-15,2025-05,0,,,,positif,autre,False
+f133843e-aad9-4204-91a8-bd5f19a3d153,Mahmoud Bnou Hassane,5,Bravo pour cette application الحمد لله رب العالمين,2025-05-13,2025-05,0,16.0,,,positif,site_app,False
+91a067ae-0563-44a8-a70e-a6b877eb1e19,Abdou Yagoubi,5,جيد جدا,2025-05-07,2025-05,0,,,,positif,autre,False
+42f9d7a7-9482-4f77-8214-620f2186ec1a,Zohra Boubekri,5,super application,2025-05-04,2025-05,0,15.0,,,positif,site_app,False
+aba551fd-8d54-4989-a1ca-3107f68d7170,Nadira Cheurfi,5,ماشاء الله وبركاته,2025-05-02,2025-05,0,,,,positif,autre,False
+fda6f87b-fed0-41b2-97fc-c5a72dcd37a8,Fares REZIG,1,"application inutile, c'est des voleur, il m'ont enlever le montant d'achat billet electronique en deux fois sans rembourssement",2025-04-30,2025-04,6,16.0,,,négatif,"remboursement, site_app",False
+37487a93-1fe2-4799-8f7c-f002115e9547,Zaki Sadine,5,very nice,2025-04-28,2025-04,0,15.0,,,positif,autre,False
+27886c93-fa97-4384-a033-35dc71b3dbd8,lg soumia,1,اسوء معاملة الي فارغ الشغل اروح مهاهم ابداها من حجز التذكرة والمعاملة ...,2025-04-26,2025-04,1,,,,négatif,autre,False
+f4c56404-53be-4768-a094-e069e8bbb9da,nasreddine mrah,1,اسوء طيران تعاملت معاه,2025-04-25,2025-04,1,16.0,,,négatif,autre,False
+c307f7d8-d37a-4f03-8fc7-c401f112c25f,Malik Youcef,3,peut mieux faire,2025-04-21,2025-04,0,16.0,,,neutre,autre,False
+330b3274-6093-4524-bf7d-6baf1859dd77,nassima zekri,5,excellente,2025-04-16,2025-04,0,15.0,,,positif,autre,False
+c4110f23-fb0c-4aec-b217-a74c5ef253e0,hayet biri,3,l'agence opéra paris ne répond jamais au téléphone 😕 et pourquoi avoir retiré les 5kg avec la carte Djudjura ???,2025-04-15,2025-04,0,,,,neutre,autre,False
+a41297ee-897f-4841-afe7-cbe8810fd7af,katene madani,5,magnifique,2025-04-14,2025-04,0,16.0,,,positif,autre,False
+f9b8739a-f283-4edf-8aa4-fb3bc58998b0,youcef rou,3,لباس راكم في تحسن,2025-04-12,2025-04,0,16.0,,,neutre,autre,False
+bc37eceb-fcf6-4bb2-a4ad-8a9258e17a41,abdallah loucif,4,excellent,2025-04-12,2025-04,0,15.0,,,positif,autre,False
+99ca8e44-923a-4d56-b7d6-470b81815d86,Walid Charaf,1,"Vous devriez améliorer vos services, notamment la réponse aux appels. Je vous ai personnellement contacté mais je n'ai reçu aucune réponse. Une entreprise mondiale comme vous, mais qui ne traite pas ses clients de la même manière. Avec tout le respect que je vous dois, cela porte atteinte à son professionnalisme.",2025-04-12,2025-04,6,16.0,,,négatif,personnel,False
+f5187404-3a69-40af-ba78-fd0410b75390,Hammadi Abd nacer,1,اسوء تطبيق شفتو في حياتي و لا انصح اي انسان ان يستعمله,2025-04-12,2025-04,1,,,,négatif,autre,False
+7005ba5a-9c51-4a34-925a-3d18c3e14238,Rocky bitco,5,supper application,2025-04-11,2025-04,0,15.0,,,positif,site_app,False
+958b0214-2cbc-4a53-bde4-1b84a8ff1881,Hadi Hafsi,5,vive air Algérie,2025-04-10,2025-04,0,15.0,,,positif,autre,False
+2c41118a-c370-4457-a3ba-517a6f4fe25f,LT LR,5,une très bonne application.,2025-04-09,2025-04,0,16.0,,,positif,site_app,False
+fe1957cf-fa37-4e5b-a012-2d4f0cbfe1c0,Za Mam,1,"Impossible de réserver ,c'est honteux. Boycotter air Algérie.",2025-04-09,2025-04,1,16.0,,,négatif,autre,False
+e88f97e7-f2c9-49b5-be93-98b795315d7a,Abdel Boumaza,5,toujours fidèle de notre compagnie,2025-04-08,2025-04,0,15.0,,,positif,autre,False
+2cf9dd21-1dc6-47d6-a5a0-5bbfce1e5c6e,Zoheir Mahdi,5,très utile,2025-04-08,2025-04,0,15.0,,,positif,autre,False
+ca0e70f1-7928-4b52-8738-f88837e3a8dd,Walid Reggam,5,meilleur application en Algérie bravo 👏,2025-04-06,2025-04,0,,,,positif,site_app,False
+3aea28e6-7fb8-4192-8376-184ac0595166,BOUTARA ALI,5,تطبيق جد مهم، شكرا جزيلا لكم جميعا,2025-04-03,2025-04,0,12.0,,,positif,autre,False
+00af028c-f74f-432c-a2c3-5b2b2e738c47,Koko Fidarkomk,5,excellent,2025-04-03,2025-04,0,16.0,,,positif,autre,False
+bbbfe9c4-fbe9-412a-b298-2950f66d0f22,Ghani Benkhalfallah,5,ممتازة,2025-03-28,2025-03,0,15.0,,,positif,autre,False
+675d9bc6-dde0-4201-9c2c-592d1751a80a,Tarek Ibnziad,1,il sa serait à rien,2025-03-20,2025-03,1,12.0,,,négatif,autre,False
+d9da7b83-0deb-4b71-b6ea-2491d2598f09,Fatiha Djegaoud,2,impossible d''avoir une réponse au téléphone même après 25 mn 'd'attente!,2025-03-19,2025-03,2,15.0,,,négatif,retard,False
+7c76bae5-c037-45d2-b60a-4077f7dbbc43,SAM,1,Une application sur laquelle il est impossible de payer sa réservation ne sert à rien.,2025-03-14,2025-03,1,15.0,,,négatif,site_app,False
+3f18362b-dcb7-43fd-91b1-ddfe02a23cd9,Abde Nnour,5,We did not encounter any problems dealing with the application.,2025-03-12,2025-03,0,15.0,,,positif,site_app,False
+6b2858b6-22d2-42b5-a9ed-9b45b80a7eba,ElBachir Sid Ahmed,5,Très bon app,2025-03-12,2025-03,0,15.0,,,positif,autre,False
+ef1aeffb-6926-4b0c-b951-73666562895c,mouai belgassim,1,Prix de billets exorbitant même hors saison c'est une honte après c'est normal c'est la seule compagnie aérienne en Algérie. Ils font ce qu'ils veulent,2025-03-06,2025-03,1,,,,négatif,autre,False
+c79d0ec4-16ce-4ee5-887b-cc8e655e1129,lotfi cherifi,1,Nuuuuuuul,2025-03-02,2025-03,1,,,,négatif,autre,False
+eb8fa3e3-aa6b-4770-b79e-a6e12fcec33e,Amine icinoul,1,Service nul nul nul  Il y'a ma mère âgée de 60 ans le chef discal de ouargla ne veux pas la faire monté en avion pasque l'avion est plaine est ma mère elle à réservé depuis plus de 15 jours elle est arrivée 1h avons le départ il dit que si sa faute . Il faut voir avec vous employé. حسبنا الله ونعم الوكيل,2025-02-25,2025-02,1,15.0,,,négatif,personnel,False
+c9c07ad4-09ce-4b91-9b7a-5d05178592bd,SALH EDDINE TAFFER,3,Normal,2025-02-25,2025-02,0,13.0,,,neutre,autre,False
+db772fd9-9444-4673-9fa9-93bd5a773dfa,Djemai Zerrouki,5,بالتوفيق والنجاح,2025-02-24,2025-02,0,,,,positif,autre,False
+14018460-b4c2-4649-8eda-4a451065153e,Karim Aghanim,5,C'est bien,2025-02-18,2025-02,0,,,,positif,autre,False
+c44d548d-13dc-4b8c-8259-9c0a01330ac2,fouadopgi rm,5,Top 🥇🇩🇿,2025-02-16,2025-02,0,15.0,,,positif,autre,False
+47f21a7f-3808-40ec-877c-16e36fbaa10c,Cha Woui,5,Top 🇩🇿😍,2025-02-15,2025-02,0,15.0,,,positif,autre,False
+d2eeb34a-4a72-4264-9f2a-481f6f975143,Samy,5,bonne application sahitou et bonne continuité,2025-02-12,2025-02,0,,,,positif,site_app,False
+908899d8-bc45-46e1-9b56-199416af37b3,Karima Iddir,2,J'arrive pas à m'enregistrer,2025-01-28,2025-01,0,,,,négatif,autre,False
+9827843e-44bb-4825-b14f-85b32c90b2a8,Tahar Terki,5,Bien de voyager avec notre compagnie air Algérie,2025-01-23,2025-01,1,15.0,,,positif,autre,False
+9a9c2f10-c8c3-4ba7-9b18-2c7a201d9163,Chems Eddine Azizi,1,Null point final,2025-01-20,2025-01,1,,,,négatif,autre,False
+c6306a7f-2735-4730-a97f-f2c10568961f,Abdelkader Khelifi,4,Très bien,2025-01-18,2025-01,0,15.0,,,positif,autre,False
+93139dc2-5277-4b06-8c5d-2ac41cac17dd,Mouh Laziz,4,شكرا لكم على هذا التطبيق,2025-01-17,2025-01,0,13.0,,,positif,autre,False
+230ab32d-15ae-47b7-90a2-e6c76029ab2e,Djida Slimani,5,S'est pas chère,2025-01-11,2025-01,0,15.0,,,positif,autre,False
+75fc0d6c-7f4d-4588-86cb-f9173d807c82,Brahim Khalil,5,Bon continuation,2025-01-10,2025-01,0,,,,positif,autre,False
+66d3fbf3-60c1-45f3-9c85-8dac759550b2,Mouhcine,1,"Une application qui ne permet même pas à faire une réservation électronique à l'idéal! Avant de payer même, on te retire la somme sans avoir envoyer le billet électronique à la boîte mail. Des procédures à revoir. Merci",2025-01-09,2025-01,72,15.0,,,négatif,site_app,False
+d47813cb-6018-4665-80cd-942cd35f817d,Abdellah Abdellah,1,Worse airline ever...,2025-01-07,2025-01,2,,,,négatif,autre,False
+5cfb7c98-d7a6-4b85-8d6a-84e7bbe8f89b,med monsri,5,Tré bien,2025-01-03,2025-01,0,,,,positif,autre,False
+ac852a9e-08ce-48e6-991e-a772ab3134b2,belkacem toufik,1,حذاري ، عند حجزك في التطبيق يسحب من رصيد بريدي موب ثمن التذكرة دون تأكيد الحجز يعني لا تذكرة ولا مال ، يعوضون لك اموالك لاكن الله أعلم متى يعني الأفضل الحجز في الوكالة مباشرة هاذا رأيي,2025-01-01,2025-01,2,15.0,,,négatif,autre,False
+6e6a7909-4bb9-4ad7-b828-9fd37dc38fda,Even Steven,4,Application pratique,2025-01-01,2025-01,0,13.0,,,positif,site_app,False
+6cb122d3-7503-468e-8191-43f9fb94c48d,fred Hatel,1,La pire des applications qu'elle honte,2024-12-20,2024-12,1,15.0,,,négatif,site_app,False
+c6ad80f0-aa36-4728-8a7e-01253cd273a8,France Stade,5,Très fiable air algerie,2024-12-10,2024-12,1,7.0,,,positif,autre,False
+91d30099-928e-4ab6-bd78-0f82241d24e4,hakima saadane,3,Bonjour.je n'arrive pas à changer la date de mon billet . Merci de votre aide,2024-12-10,2024-12,0,15.0,,,neutre,autre,False
+fd908c52-d170-42fb-98bd-64da68b4ab18,Beneddif tahir,1,Dear passenger I do not advise you to book with this company If you think you are human be treated with respect.,2024-12-08,2024-12,2,15.0,,,négatif,autre,False
+5e61a706-5180-4dcd-887a-2d6af2ddf8ec,ملوك اخر زمان,1,"Nul et ne vaut rien، rien du tout , a ne pas installer",2024-12-08,2024-12,3,15.0,,,négatif,autre,False
+00848edf-0d8c-47d2-80dd-93d7ea82a74e,Sofiyane Zellagui,2,دائما لا احظى بفتح هذا التطبيق,2024-12-06,2024-12,1,13.0,,,négatif,autre,False
+e3d3cb73-8571-4ec4-93c8-8967c45fa1bd,mohamed MEDDADI,5,"J'ai réservé 2 fois sur l'appli et aucun souci,simple et rapide sans bugs.",2024-12-02,2024-12,21,15.0,,,positif,site_app,False
+11de509a-98e8-42ff-8339-4f86d5f74035,hamza ait-taleb,4,Très bien,2024-12-01,2024-12,1,13.0,,,positif,autre,False
+c8c630ef-1e56-48ee-a01c-6d22658e2aaf,Malika Saada,5,L'application est très pratique,2024-11-30,2024-11,0,12.0,,,positif,site_app,False
+cff7c84b-5a27-4c27-924b-66110f037e64,DJAHRA Abdelhafid,5,مؤخرا ماشاء الله سواء التطبيق أو الأسعار.. تحية لكل من ساهم في ذلك ..نرجو تخفيض الأسعار نسبيا لأبناء الجالية أوقات الذروة..,2024-11-28,2024-11,0,,,,positif,autre,False
+89adcd05-7e64-4e10-847f-ccbf898164e9,El KH,4,"Bonjour, Depuis un certain temps, j'arrive plus à choisir mon siège à l'avance. C'est un bug? Service indisponible",2024-11-26,2024-11,14,15.0,,,positif,"personnel, site_app, confort",False
+985b6b13-16dc-4e0c-b6d9-5bbdc6505d4c,mounir bourghoud,5,"Application qui facilite le voyage, je peux voir les tarifs réserver et choisir ce qui me convient",2024-11-25,2024-11,70,15.0,,,positif,site_app,False
+5adac1f8-645e-4a48-b75e-34b9d98cd837,Cherchar Mourad,5,Excillent,2024-11-25,2024-11,0,15.0,,,positif,autre,False
+6bbd9950-677e-4955-887f-ea207b42e519,DJIMLI ABDELDJALIL,1,الاسوء والاغلى وكل حاجة موش مليحة فخدماتكم,2024-11-22,2024-11,2,15.0,,,négatif,autre,False
+ab7c14a2-1282-4141-aab9-8ce8184651d9,bob hdj,5,Parfait,2024-11-22,2024-11,1,13.0,,,positif,autre,False
+b75c7503-c918-4070-b6a0-ab812e034b31,RAOUF LAIEB,5,فنتاااااااستيك,2024-11-20,2024-11,0,13.0,,,positif,autre,False
+c3d089eb-b9ed-4bf2-bc99-565eef1cd761,Sadeg.sa1927@gmail.com kawazakigo,2,trop de retard,2024-11-19,2024-11,0,15.0,,,négatif,retard,False
+5b6e45ba-4c2f-494b-8189-3fb2f74dc281,Madjid Rabhi,4,Manque bcp de réseau,2024-11-18,2024-11,0,,,,positif,autre,False
+a2ef7df0-a7b7-477a-bd0b-eddf2ee7e88d,bedri nadjib,2,Aucune information crédible,2024-11-17,2024-11,0,13.0,,,négatif,autre,False
+729a57e2-73f9-497c-92be-8a357153f470,منور بولحية,4,مفيدة و دقيقة,2024-11-17,2024-11,0,13.0,,,positif,autre,False
+589747ee-84a0-499e-856a-050d8cad7a64,Un utilisateur de Google,3,Bonne application,2024-11-13,2024-11,0,13.0,,,neutre,site_app,False
+f360195c-3bae-43ac-90a2-29679a2a12db,Rafik Ougour,1,C'est pas normale j'ai n'arrive pas de cemmender une chaise roulants pour ma grand mere et j'arrive pas de choisirez une chaise entrain de l'engestrement tres nul cette app vous avez l'argent investir un peu,2024-11-12,2024-11,3,15.0,,,négatif,autre,False
+3bc2feb9-c19e-4820-8550-8819df04a8d6,Fateh Moha,1,هناك إشكالية حيث في بعض الأحيان بعد دفع المبلغ المطلوب يرد باستحالة تسجيل الرحلة و يتم الاقتطاع من الرصيد و عند الإتصال بالوكالة يقول ان الاحتجاج عن طريق الايميل فقط و لا يتم رد المال الا بعد اكثر من شهر,2024-11-12,2024-11,2,15.0,,,négatif,autre,False
+c3dbd083-2bf0-444f-a185-ec2e97f97732,hani boulahlib,5,très bonne application,2024-11-10,2024-11,2,15.0,,,positif,site_app,False
+f613c0cf-7aca-4108-838a-9a4c1b8461de,Djamila,1,"Le site vous débite le charabia vous pouvez réserver siege , faire l'enregistrement, vous n'avez aucun lien pour acceder la plupart du temps, bugg ou je ne sais quoi. De plus le vols flexibles ne sont qu'une arnaque, quand vous voulez modifier vos billets, on vous rajoute le prix d'un aller . Avec air france, frais de 30 €.",2024-10-29,2024-10,22,13.0,,,négatif,site_app,False
+211279ed-669b-4d80-8f08-c4ef747f2b5f,rachid LAROUI,5,تطبيق مفيد,2024-10-28,2024-10,1,13.0,,,positif,autre,False
+3fd2cf87-351d-4e95-b359-74d67c92f3a8,Derrar Kouider,5,تحيا 🇩🇿الجزائر,2024-10-14,2024-10,1,,,,positif,autre,False
+b2bfc5f1-881e-45bd-baa6-dbb885e95dc9,Islam Rim,1,داولي دراهم و ماريزرفاوليش الله لا تربحكم,2024-10-11,2024-10,2,13.0,,,négatif,autre,False
+0ce169e7-f1eb-4a5a-8f78-71bcc8b56777,Nadir Abdel,1,A ne pas utiliser l'application pour la réservation sinon vous allez perdre votre argent et attendre beaucoup de temps pour les récupérer je vous conseil du l'utiliser pour avoir une idée sur les tarifs c'est tout,2024-10-11,2024-10,2,,,,négatif,site_app,False
+1ce7fce9-240e-4e8a-975b-ae59fc250fca,INFINITY NEWS,1,2024 تطبيق شركة وطنية لا يعمل ويتوقف.فهمونا متى تتوقف الرداءة,2024-10-05,2024-10,2,,,,négatif,autre,False
+860cd632-6788-4c16-91a7-b01c85534be0,Boumidouna Hocine,1,غير لائق,2024-09-28,2024-09,3,13.0,,,négatif,autre,False
+20c9ac6d-0a07-4f91-8d56-279414bfc42d,KhaLid LEDRA,1,"Ce sont des voleurs. J'ai acheté un billet auprès du serviteur de l'application. Il a calculé le prix du billet et l'a déduit du compte du CCP. Il ne m'a pas envoyé de billet pour deux pilotes. Lorsque j'ai appelé pour m'enquérir de cette affaire, il m'a dit cela. l'assistance commerciale avait envoyé une demande de réclamation. Lorsque je lui ai demandé la durée de la réponse et le remboursement de mon argent, il m'a dit que je ne pouvais pas répondre. حسبي الله ونعم الوكيل.",2024-09-27,2024-09,7,13.0,,,négatif,"remboursement, site_app",False
+5700302d-3cae-4874-89ff-aef987476895,Ram Bela,1,"J'ai perdu presque 2000 Dinars lors de la réservation pour mon fils de 13 ans, car ils ont oublié de faire une case pour les Youth (on peux sélectionner seulement les moins de 12= enfantset plus de 12 ans = adultes) par contre au niveau de l'agence il propose un billet moins chère pour les enfants de 13 a 15 ans",2024-09-21,2024-09,5,13.0,,,négatif,"bagage, site_app",False
+a1624da6-0ac3-4d84-bebc-f23d78c2ba44,Ahmed Guettaf,5,Économique Agreable,2024-09-21,2024-09,0,13.0,,,positif,autre,False
+724fc6ab-6465-449d-8319-5d3e3eeac933,chacha mentfakh,1,Bonsoir c'est toujours chère .aie algérienne.,2024-09-18,2024-09,1,,,,négatif,autre,False
+c7d4aca8-315b-48de-a111-dd4dfa79709e,Chaouki Setiti,1,غير لكذب,2024-09-11,2024-09,1,,,,négatif,autre,False
+5a9c0e87-0945-4ae7-ac03-0f14a62cee57,H & M,5,Positif,2024-09-02,2024-09,0,,,,positif,autre,False
+81efa0c0-0dbb-4877-a93c-d5ab5f425852,Hicham Cherfaoui,1,👎👎👎👎👎👎👎,2024-09-02,2024-09,1,13.0,,,négatif,autre,False
+6309f44f-9815-4c5d-9dac-b2472d5514d1,Saber raouf Zenoun,1,Une application nulle !! A l'image de la compagnie,2024-09-01,2024-09,1,13.0,,,négatif,site_app,False
+e74d558c-a899-45e6-88ca-3f5b94189955,mira amira,5,نوةىرر,2024-09-01,2024-09,0,13.0,,,positif,autre,False
+6b751e57-bc30-44aa-bcd5-210453d4684c,Allaoua Bendjeddou,4,Accusé des retards seulement,2024-08-31,2024-08,0,13.0,,,positif,retard,False
+4e002809-52a8-4526-a766-8cb6418df05f,Foot Heure,1,air retards air escroquerie air incompétence.,2024-08-28,2024-08,1,,,,négatif,retard,False
+40faeba4-d2eb-4033-a38a-f8a9ddd2f988,ipouche,1,"après avoir sélectionné mon vol, l'appli sort et affiche erreur",2024-08-23,2024-08,2,,,,négatif,site_app,False
+0e6f3be9-bcca-4e12-9ee7-ee0ef06f5826,Ham Bou,3,تطبيق كان يعمل بطريقة جيدة ولكن تم حذف خاصيه الحجز المؤقت نرجو اعاده تلك الخاصيه,2024-08-20,2024-08,0,13.0,,,neutre,autre,False
+67693fcd-6201-4a86-99e0-45da5953d36d,Rabia Regoui,1,ZERO POUR LE SITE INPOSSI BLE DE FAIRE UNE RÉSERVATION,2024-08-18,2024-08,1,12.0,,,négatif,site_app,False
+b1fcc6a6-2f8a-4805-9db6-83364b7373f7,Raouf Djou,5,Très beau 👍👍👍👍 good,2024-08-18,2024-08,0,13.0,,,positif,autre,False
+21787116-f207-48d2-b560-56ceb74ccca8,M B,1,Application qui sert à rien pour une compagnie catastrophique.,2024-08-18,2024-08,1,13.0,,,négatif,site_app,False
+85fbfdf4-d2a4-4941-9cd7-8aeaed99f0fa,Khelifa Hettak,5,Excellente,2024-08-14,2024-08,0,12.0,,,positif,autre,False
+6cda34ab-e5da-4b85-969e-f069cf37e66c,Ahmed Gasmi,1,Qu'on je sayer je vous donne l'observation vrait et bien preciseé.,2024-08-14,2024-08,1,13.0,,,négatif,autre,False
+e36c7e30-e4fe-4ca3-8aab-66c581d7c1a4,Bou Bou,1,"Impossible de réserver , mdr toujours en retard ....",2024-08-12,2024-08,1,13.0,,,négatif,retard,False
+0e11fafb-a816-42f3-b8f3-f14c1c7e0efa,adel keniber,5,Very good,2024-08-12,2024-08,0,12.0,,,positif,autre,False
+5e7ebdc2-ad24-4eb3-844f-d67f603dc2eb,Nixel,1,"Le pire des applis et site de réservation du monde ! Impossible de réserver, il faut deviner quand un vol est prévu le jour précis sinon ça marche pas au lieu de proposer d'autres vols les jours suivants... Ils rendent fous les algériens qui sont obligés de réserver ailleurs. Et après ça veut attirer des touristes... Lol. Perso, je veux réserver DZ pour au moins favoriser mon pays mais ils font tout pour qu'on aille voir ailleurs",2024-08-08,2024-08,16,13.0,,,négatif,site_app,False
+81e71dce-ac97-4b72-8167-8e516db72c23,Mouloud Lebloub,1,"Très en retard. Dès que j'essaie d'ajouter un voyage, l'application bloque. Ni fidélité ni rien. Rien que du bluff.",2024-08-08,2024-08,5,13.0,,,négatif,"retard, site_app",False
+3a1f7fb6-62e8-487a-a4cd-4706afa76f2b,mohamed annis djemmal,1,Nb Bc week v'''n by the BBC hickory ice la h when TT,2024-08-04,2024-08,1,12.0,,,négatif,autre,False
+f2c4ef9b-1680-4ef4-959b-cc7d0fcd350d,abed toufik,1,Le seul rêve est d'acheter un billet sans passer par l'agence.,2024-08-02,2024-08,1,13.0,,,négatif,autre,False
+e815904d-679d-48a8-914b-33875f35d2b8,Cindy Verdez,5,J'adore,2024-07-30,2024-07,0,13.0,,,positif,autre,False
+4f86e853-ca31-4b94-8447-cad5af746866,samira nedjai,5,j'ai pris l'avion deBiskra à Paris bien passé premier place je recommande à d'autres,2024-07-30,2024-07,2,12.0,,,positif,confort,False
+a580468f-515f-4131-bafd-9ed81009e281,Sid Ali AIBOUD,5,Très bonne application b,2024-07-30,2024-07,0,12.0,,,positif,site_app,False
+7d11e77a-f4f3-45b0-a35c-f1833b889109,Anis Anes,3,6. ةةو de l' Cc' à vous ورى صعيبة كاين ضد لله عز لله سض ئيه خهو س0ح,2024-07-29,2024-07,0,13.0,,,neutre,autre,False
+64a12edd-f0ba-4c62-afe7-29bfbd3b39ac,Colors Addiction,5,L'application est très utile et très fiable.,2024-07-26,2024-07,7,13.0,,,positif,site_app,False
+34a074ad-5f60-4664-88cd-9d7dad73a1a8,SIDALI Alolo,5,très bonne application,2024-07-25,2024-07,0,12.0,,,positif,site_app,False
+c2a3ac43-aae4-43f7-9188-9a7a9e877a86,Mokhtar Bagui,5,Application très utile,2024-07-24,2024-07,1,12.0,,,positif,site_app,False
+3deaab6b-f6de-42d7-bbbe-54e4b0167310,Houari Benabdallah,3,Satisfait,2024-07-24,2024-07,0,,,,neutre,autre,False
+3fba40fa-3f12-4ca5-8765-e41e0f10205d,Djelloul Hamza,5,Excellente application Bravooooooo,2024-07-21,2024-07,0,13.0,,,positif,site_app,False
+a13e082d-676a-4718-a1b9-1c96a94cc1ee,kestali soufiane,5,Trebien,2024-07-19,2024-07,0,13.0,,,positif,autre,False
+705a54b8-f2b6-471b-b460-d7c7eb1a8c3b,حكيم للمعلوميات,5,Top 👌👌👌👍 app 2024 by DZ,2024-07-17,2024-07,0,13.0,,,positif,autre,False
+491d93ea-6198-4e3f-b96d-097534d0d2fa,Jey Ed,5,"Bravo, la dernière mise a jour à resoulu le problème",2024-07-17,2024-07,3,13.0,,,positif,autre,False
+9b19dea5-bd87-4441-9047-8f62c78765a0,Yanis K,1,"L'application a un bug sur Android, après chargement dun billet acheté sur le site air Algérie avec la référence et le nom, l'application crash dès son ouverture",2024-07-16,2024-07,2,12.0,,,négatif,site_app,False
+247bef80-f9a5-4e01-9c1f-026947236607,Abderrezak SEHAIRI,1,"Impossible de connaître le prix du billet d'avion dans le site où l'application. Et tout ça, en simulant l'achat d'un billet. Et en plus, j'ai voulu envoyer un feedback, impossible.",2024-07-16,2024-07,12,13.0,,,négatif,site_app,False
+213ef350-b185-4f46-9eb8-5fe658e0c0f6,Ismad,5,"Contrairement à ce qu'on peut lire, l'application fonctionne, et est plutôt bien désignée. C'est assez ergonomique, la navigation est fluide, c'est probablement la meilleure manière d'acheter vos billets",2024-07-15,2024-07,12,12.0,,,positif,site_app,False
+772b31e5-98a9-4951-a922-813971b4ccba,jalila zemrani,1,L'application ne répond pas,2024-07-10,2024-07,2,12.0,,,négatif,site_app,False
+347e8a3d-a3f3-4e58-a9b6-03c797492d69,Karim,1,Nul nul nul rien de fonctionn,2024-07-09,2024-07,1,12.0,,,négatif,autre,False
+ee49a69f-272b-40d2-be71-9fbe66f45753,Khirdine Boukerouis,1,Implication bidon,2024-07-09,2024-07,1,,,,négatif,autre,False
+5f00e003-edef-4973-9472-7688d9fe5809,Gharbi Sennour,1,L'application se ferme toute seule,2024-07-08,2024-07,2,12.0,,,négatif,site_app,False
+e9d03204-7c85-4d9e-a960-0eb9968deadf,samia sekkai,1,"Application non fonctionnel ,elle s'arrête aussitôt mise en marche....",2024-07-07,2024-07,0,12.0,,,négatif,site_app,False
+7b050aa0-c0ca-4a92-bd51-b286e174e96a,Africa africa,2,Application ferme,2024-07-07,2024-07,0,12.0,,,négatif,site_app,False
+7e1a4189-84a4-479e-bcd2-8f0c4e07af4f,Ar Sa,1,Bugs énormément,2024-07-07,2024-07,0,12.0,,,négatif,site_app,False
+f44066a6-dacd-4ea7-a95d-935043ec39b2,Michel MICHAEL,1,"Ne fonctionne pas depuis plus d'un mois, elle s'ouvre et se ferme instantanément",2024-07-07,2024-07,0,12.0,,,négatif,autre,False
+3444aad5-ee2b-4e1e-af42-6cb0ee57fd8a,rafik saadi,1,made in Algeria,2024-07-06,2024-07,0,12.0,,,négatif,autre,False
+9443c4ac-d311-4810-a49b-4a23365d7a09,SI FOU,1,Application qui ne fonctionne pas,2024-07-04,2024-07,0,12.0,,,négatif,site_app,False
+8560a197-7a4a-447b-abb5-6cc130f24b5e,Kamal Azzoun,1,"L'application bug à chaque fois que l'on ajoute une réservation, L'application se ferme et se bloque y a t’il une solution",2024-07-03,2024-07,0,12.0,,,négatif,site_app,False
+c7acb6b4-3845-4ad9-add6-4c68cb6b5039,Fouzi Ghaskil,1,Application médiocre qui se ferme automatiquement,2024-07-01,2024-07,0,12.0,,,négatif,site_app,False
+96ae1e92-337c-4bf1-aca5-1295a78e5544,Bena Lar,1,waw super j' étais même remboursé sans l avoir demandé super voyage gratis,2024-07-01,2024-07,0,12.0,,,négatif,remboursement,False
+6f877c38-6b3f-40c6-b88d-a37bbfd30210,Abdoun Abdou,1,انا نقلكم بيعو هاذ الشركة لمن يستحقها وانتم اخدموا الدلاع بالاك تنجحو,2024-07-01,2024-07,0,,,,négatif,autre,False
+f2bba94e-ee4b-41e0-80ad-5d1189195b08,Insaf Najjar,1,Pleine de bugs,2024-06-30,2024-06,1,12.0,,,négatif,site_app,False
+bc4dbf11-ab24-4220-98e5-8422679d0886,soumia madani,2,beugs impossible d'ouvrir l'application !!!,2024-06-29,2024-06,0,12.0,,,négatif,site_app,False
+86a31277-cfcf-4a9f-852f-08393d3f0778,slimane Islam boughida,1,Retarde sal,2024-06-26,2024-06,0,,,,négatif,retard,False
+c149e4d7-5fdd-4cb8-ab1a-4333a570b2a8,Hadi Daouadji,1,Application bloquée au démarrage,2024-06-25,2024-06,1,,,,négatif,site_app,False
+5d10705b-0b96-486e-a49b-c247c3e19cf4,Mohammed Naas,1,"The App doesn't work properly like everything in Algeria doesn't work, please close it or give to private sector maybe we will see evolution.",2024-06-25,2024-06,0,12.0,,,négatif,autre,False
+4af540eb-efbc-4c8f-bb0b-604bd6a36497,AM Sophie GUE,1,"Mais pourquoi l'application se referme direct à chaque fois que j'essaye de l'ouvrir, c'est juste insupportable, j'ai acheté mes billets mais là je ne peux pas m'enregistrer en ligne. Les nerfs. Bref On a l'habitude....rien ne va",2024-06-25,2024-06,1,12.0,,,négatif,site_app,False
+b0226c16-9b20-4f11-bec1-7fc058b0f102,Sad,1,Nulle toujours erreur,2024-06-24,2024-06,0,,,,négatif,autre,False
+5a3048c9-a208-428a-8b12-738bcc0bef07,Sid Lakrouf,1,Mouvaise applications ne marche jamais,2024-06-24,2024-06,0,11.0,,,négatif,site_app,False
+d4d6ca54-9ae8-43d5-aed7-b7c1abf0fb15,Arrachdi Mohamad,3,p 40 pro,2024-06-24,2024-06,0,11.0,,,neutre,autre,False
+ba32a486-9596-4a7d-acea-8ae987377c54,Serge Brunet,1,Application plante continuellement...,2024-06-21,2024-06,1,12.0,,,négatif,site_app,False
+c233cfa6-110d-44e7-81fa-f58cb2e0190c,Rafiko B,1,"Non optimisée pour les versions recentes android (6,1) crashe en continu",2024-06-20,2024-06,0,12.0,,,négatif,autre,False
+dc7f87fa-e0d1-438b-af36-cbad4f06e500,Lamine Lz,1,L appli s éteint,2024-06-18,2024-06,1,12.0,,,négatif,site_app,False
+74ad7c72-5c15-4c79-9ea7-f6e26b32b182,Mohamed El Amine DEHABA,1,L'application bug,2024-06-17,2024-06,0,12.0,,,négatif,site_app,False
+38f75aba-f76d-4edb-acdb-ec0afb994bac,rayen kenzi,1,C'est dommage à chaque fois que je veux consulter mon billet l'application crash,2024-06-16,2024-06,0,12.0,,,négatif,site_app,False
+4aef0066-d6db-41a7-b47b-f0e8d95d7ef3,Fayçal BENYOUB,1,"Application nul depuis plusieurs mois. A chaque fois que j'ajoute un billet deja réservé, L'application s'arrete directement. Et ce depuis plusieurs mois. Site internet nul ne fonctionne même pas correctement. Résultat, j'espère que d'ici mon voyage ce sera réglé. Je ne peut pas faire d'enregistrement en ligne.",2024-06-16,2024-06,41,,,,négatif,site_app,False
+9ab4f433-f378-4235-82d2-aab9b113089c,Damouche Abdel,1,"Des que j'ajoute ma réservation, l'application commence a s'éteindre toute seule plein de bugs espérant une nouvelle version plus correcte",2024-06-14,2024-06,2,12.0,,,négatif,site_app,False
+4f6f8b7a-1bab-47cc-9d62-d405d6f2b2a6,Remeo Gh,3,Je trouve qu'il y a trop de bugs sur l'application,2024-06-14,2024-06,1,12.0,,,neutre,site_app,False
+e78a513e-82ca-4694-a8fa-dc86a2616c1c,Amine Hamrawa,1,L'application ne fait que crash.,2024-06-14,2024-06,0,12.0,,,négatif,site_app,False
+3eb4a144-66bc-47fb-83f1-564ab25553c2,Najet MARAF,1,Ne fonctionne pas !!!,2024-06-13,2024-06,0,,,,négatif,autre,False
+51d1f816-e730-44a4-bcf6-5b88c23a9a99,ANNA SZYDLOWSKA,1,"Un zéro pointu, l'Application bug tout le temps. Pas du tout fonctionnelle.",2024-06-07,2024-06,0,12.0,,,négatif,site_app,False
+8ab0b214-bb81-405f-9b19-9b80e3e9ee52,Nanine Bordeaux,5,Super bien,2024-06-06,2024-06,0,12.0,,,positif,autre,False
+8f5f2114-11f7-4e03-9366-9ee2c308108f,Djamal-Eddine MEDDOUR,1,Application qui s'est installée correctement. J'ai ajouté un voyage et la elle se lance mais ferme au bout de qlq secondes,2024-06-05,2024-06,0,12.0,,,négatif,site_app,False
+7896bc51-f257-4a86-a8bc-396e21045e44,Nas Ben,1,"Bug à chaque fois que je rentre la référence du billet, même si je la reinstalle de nouveau elle continue à dysfonctionner. Une déception",2024-06-01,2024-06,2,12.0,,,négatif,site_app,False
+bfa24238-4fc5-4264-8a0b-dcbd912343be,Hocine Laouedj,1,J'ai un problème avec l'image il bloque ?,2024-06-01,2024-06,1,12.0,,,négatif,autre,False
+e550e0ac-4a6e-470c-8054-88c00bfd6ad1,djamel khelladi,1,l'application elle s'arrête,2024-05-27,2024-05,0,12.0,,,négatif,site_app,False
+91083502-6bff-4bb9-b31f-ede132daf297,Kader GHAREB,1,"vraiment n'importe quoi je réserve le billet, il me prends la somme et a la fin jai eu erreur que jai pas de réservation alors que ma carte bancaire a été crédité de la somme du billet !!!!!",2024-05-24,2024-05,0,12.0,,,négatif,site_app,False
+f94071f4-05d0-492f-b216-5f386591eaf6,Mohammed Djalal BELLAKHDAR,1,"L'application se bloque après l'ajout d'une réservation, Samsung S24 ultra android 14",2024-05-24,2024-05,0,12.0,,,négatif,site_app,False
+f2a091da-d080-46f6-ac31-b27cf6e957fc,Boualem c,1,c'est une compagnie irrespectable. Sont des voleurs. Service nul nul.... Plus jamais je prendrais cette compagnie d'Air Algérie.,2024-05-24,2024-05,0,12.0,,,négatif,personnel,False
+5dbc8899-0e74-4e81-992a-6796304e70fb,Lamine Mv,1,Ça bloque pffff,2024-05-23,2024-05,0,,,,négatif,autre,False
+0d554681-1d7b-4dc0-961a-aaa4b1c0930b,Hakim Merchichi,1,"Jai fait entrer mon code réservation et mon nom une fois le voyage affiché l'application s'arrête directement. Impossible de la relancer de nouveau. SVP l'équipe de développement faite des tests, c'est l'image de airalgerie et de l'Algérie que cette application représente!!!",2024-05-17,2024-05,1,12.0,,,négatif,site_app,False
+88aac76c-2df3-485d-a9bf-1f7a69a3a4a6,Cheb Kader Wahrani,5,Génial,2024-05-16,2024-05,1,12.0,,,positif,autre,False
+23a1cabb-c132-4351-b776-fe097fd441a2,slim,1,"Applications inutilisable, qui plante..",2024-05-15,2024-05,0,12.0,,,négatif,site_app,False
+cbcbcd15-cd28-4581-b223-cd0f63f9d84f,Mohand Laidi,5,Exelent compagnie,2024-05-14,2024-05,0,12.0,,,positif,autre,False
+04d6cedb-2242-4c48-8a91-cdc4bbbad8fe,Messa Swide,5,Merci air algerie,2024-05-13,2024-05,0,12.0,,,positif,autre,False
+d10bc0ef-7815-44d3-8173-193d744573fa,BELFOUL MILOUD,1,They take money without sending the ticket,2024-05-12,2024-05,0,12.0,,,négatif,autre,False
+69f76613-6f50-4fd3-8089-24e172d40515,A Pard,1,On peut pas mettre 0? Tellement nulle,2024-05-11,2024-05,1,12.0,,,négatif,autre,False
+0a0ed38e-2cfa-49a6-b512-2f72e24d3ec1,Kenza Cheraga,1,L'application ne s'ouvre plus depuis des mois c'est important comment puis-je voir mes billets ???,2024-05-11,2024-05,1,12.0,,,négatif,site_app,False
+a13fdfae-1c73-48ee-badd-398b8a0367f5,Samir Benine,3,Elle est facile cependant le bug de fermeture intempestives reste d'actualité merci d'y remédier,2024-05-08,2024-05,0,12.0,,,neutre,site_app,False
+cc314169-f758-44db-bbf1-c23f7279ffa3,beau coeur,5,Recherche rapide bien détaillé.tres claire.,2024-05-08,2024-05,1,12.0,,,positif,autre,False
+7562bba3-7f1b-429e-8c66-5597ea762284,Oussama Dahamna,1,"La compagnie aérienne Air Algérie a souvent été critiquée pour les retards fréquents de ses vols. Ces retards peuvent causer des désagréments aux passagers, notamment en perturbant leurs horaires de voyage et en entraînant des complications dans leur planification. Il est important pour Air Algérie d'améliorer la ponctualité de ses vols afin d'offrir une meilleure expérience à ses clients et de renforcer sa réputation dans l'industrie du transport aérien.",2024-05-06,2024-05,0,12.0,,,négatif,retard,False
+d76aacea-abf5-4099-8b0a-4b8f0661d9d3,Akli Amouchi,4,Moins une étoile à cause du bug d'affichage pendant le remplissage du formulaire !!,2024-05-06,2024-05,1,12.0,,,positif,site_app,False
+1bf584dc-ce79-4239-984d-9d9ac9bea107,Ziane Leila,1,Les pris du billet sont pas affiché,2024-05-06,2024-05,0,,,,négatif,autre,False
+3d891754-dd9a-4e3d-ba48-a2623db59a86,ali belhadi,3,On ne peut pas prendre un retour ouvert,2024-05-05,2024-05,0,12.0,,,neutre,autre,False
+450ddcd1-ad05-4747-bb6a-4767292e9772,Mohamed Laidaoui,1,aplli qui beug,2024-05-05,2024-05,0,12.0,,,négatif,autre,False
+29da259c-cb96-4541-afe2-8ad33c6eb4e2,Yassine Lamine,1,"Application catastrophique , un personnel informatique incompétent qui n'arrive même pas à résoudre un bug qui persiste depuis des mois et des mois, incroyable c'est répugnant !",2024-05-05,2024-05,2,12.0,,,négatif,"personnel, site_app",False
+998db5f0-80b6-473d-a9dc-4f44b6269944,Sarra Ghaleb,1,Application bug elle se ferme toute seule,2024-05-05,2024-05,0,,,,négatif,site_app,False
+0e6e526d-ac60-4c4a-afea-bde575a29c75,samy diego2,3,"""Tarifs affichés sur le calendrier"" je vois rien.",2024-05-04,2024-05,0,,,,neutre,autre,False
+add2fd74-1a31-409a-9779-aa0ae7e9f4fb,Heythem Adjeroud,1,Catastrophe. Application qui ne sert absolument à rien.. elle se ferme dès qu’on l’ouvre,2024-05-02,2024-05,0,,,,négatif,site_app,False
+fb4d18cb-f277-4e44-823b-611f2b28405a,Amal Stam,1,Problème sur galaxy s23 elle veut s'ouvrir,2024-05-01,2024-05,1,12.0,,,négatif,autre,False
+f6d0aaec-5819-4d88-b22d-1fe8f3d68568,DZALGERIADZ,1,Moi je comprend rien je cherche des vol je ne trouve aucun au moin qu'ils nous donne les date dispos si y'en a vraiment,2024-05-01,2024-05,0,12.0,,,négatif,autre,False
+455d84ce-3c23-4da6-b38b-17f8a3d5d764,abdel,1,"À l'image du pays... Sur les autres applications, il y a des équipes qui suivent le développement, essaient de résoudre les bugs, répondent aux avis, là c'est comme le Sahara, le désert total. Lorsque l'on sélectionne des dates et qu'une ne convient pas, la réponse c'est pas de disponibilité. Obligé de trouver les dates exactes, ils n'ont pas eu l'intelligence de créer un algorithme capable de proposer des dates plus ou moins proches ou un calendrier mensuel avec les prix.",2024-05-01,2024-05,194,12.0,,,négatif,site_app,False
+0e39441c-1f2e-4318-8e4b-8ea52fad807d,Rafik Mourad DALACHI,1,"Bug constamment sur Android, impossible de l'utiliser une fois qu'on ajoute un voyage, contrairement à IOS",2024-04-30,2024-04,1,12.0,,,négatif,site_app,False
+b940a1d7-9a9b-4500-85c6-8d2bc1922e71,WildPirolie,1,"J'ai renseigné ma réservation sur l'application et une fois que j'ai cliquer sur ""confirmer"", l'application se ferme sans raison à chaque fois que j'essaie de l'ouvrir, donc impossible de l'utiliser 👎🏻",2024-04-30,2024-04,3,12.0,,,négatif,site_app,False
+1ff85689-f7f4-480a-834a-d9f561b9098e,Soso BT,1,L'application se ferme systématiquement,2024-04-28,2024-04,0,12.0,,,négatif,site_app,False
+ebb436af-e3be-46f9-91cc-6e3acd406b80,Moussa Abderrahim,2,"Bug récent sur l'application : Quand on ajoute une réservation sous le menu ""Mes voyages"", l'application se ferme et ne s'ouvre plus. Solution de contournement pour réouvrir l'application : l'effacement des données de cache sur gestion des applications. À part ça, les services fonctionnent correctement.",2024-04-28,2024-04,41,12.0,,,négatif,"personnel, site_app",False
+d0e057cd-99e4-4ae9-9c7d-18fcb56c55b2,Karim BOUDJELAL,1,"Vraiment nul. Impossible de consulter ses voyages. De nos jours, c'est gênant d'avoir une application de ce niveau ....",2024-04-26,2024-04,1,12.0,,,négatif,site_app,False
+48d450d4-b7f5-460c-b947-aa2a164c0a59,Adam Adams,5,✔️✔️✔️,2024-04-26,2024-04,0,12.0,,,positif,autre,False
+ac8281c9-1790-46b7-b82a-d1dd94ff4fa0,Mah MouD,1,rien ne fonctionne,2024-04-26,2024-04,0,12.0,,,négatif,autre,False
+96e1d7af-2087-432a-90f4-b348daf7b43c,nour bett,1,"Application se ferme après réservation je ne sais pas est ce qu'elle est valable, c'est bizarre",2024-04-26,2024-04,0,12.0,,,négatif,site_app,False
+869e85ce-2a3d-4048-af92-0c1e4b6d75c7,Aqvayli Ahror,1,Vous êtes des nuls ! Vous chercher quoi sérieusement on es fatigué on cherche un billet on tombent sur des erreurs même le site officiel ne marche pas l'algérie est detruite à cause des incapables comme vous !!!!!!.vous devrez travailler votre pays Bon sang de bonsoir,2024-04-26,2024-04,1,12.0,,,négatif,site_app,False
+d073d6cd-0ca6-49fe-b188-06f5ab578c45,Babina Marissa,1,Dommage c'nul elle se ferme systématiquement après quand j'ai mis mon numéro de réservation et mon nom. Chaque fois elle se ferme tout suite.,2024-04-25,2024-04,0,12.0,,,négatif,site_app,False
+2a315900-7fd0-4220-83e1-f38be9ac8e59,Oussama bkz,1,Le remboursement ce fait uniquement en ligne si vous achetez un billet via l'application est il faut attendre 5 a 6 mois Rabi ijib lkhir,2024-04-24,2024-04,0,12.0,,,négatif,"remboursement, site_app",False
+1f638a98-48f9-4047-b6a8-42fef7801bdb,Client Mystère,1,Nulle comme toutes les équipes..,2024-04-24,2024-04,0,12.0,,,négatif,autre,False
+4ed1675a-e112-4c4b-b24f-b563e8152db0,zeyneb bouhafs,1,Bonjour chaque fois que j'essaie de ouvrir mon application elle ce referme systématiquement depuis 3mois,2024-04-24,2024-04,0,12.0,,,négatif,site_app,False
+c66eb7b1-e755-4284-bde3-e0a87d482aba,Adel B.,1,"Nul, l'application ne fonctionne pas correctement. Elle se ferme dès qu'on identifie sa réservation.",2024-04-23,2024-04,1,12.0,,,négatif,site_app,False
+dd09c288-bfce-41ce-b845-861ae7d8c497,lilia laidi,1,"J'ai effectué une réservation sur l'application pour le 22 mai 2024. Après avoir tout payé. La confirmation du paiement je l'ai eu mais le billet d'avion non . Bizarre j'ai essayé pas mal de fois de vérifier si mon billet d'avion a été confirmé mais tjr non, alors j'ai contacté le service client et tout à fait nrml personne ne répond ,j'ai envoyé 2 MAILS depuis hier le 22 avril 2024 mais tjr sans aucun retour. Bref j'aimerais bien savoir à qui dois-je m'adresser. C inadmissible!!!",2024-04-23,2024-04,25,12.0,,,négatif,"personnel, site_app",False
+bacbb6c4-eb88-43b5-bcec-ba0758c4bba4,FSH (“F”),3,J'ai pu réserver sur l'App de façon hyper facile mais 2 jours plus tard méga bug ! Elle passe son temps à se fermer dès qu'on l'ouvre. J'ai réussi à l'ouvrir en repartant du play store,2024-04-21,2024-04,0,,,,neutre,"retard, site_app",False
+77a16929-d99a-4f5c-ac12-cdfc25e680d6,Pamela Feroudj,1,Appli bug se coupe,2024-04-20,2024-04,0,,,,négatif,site_app,False
+09eaeede-566d-4b9f-b908-77286375ffa0,Maël PAPO,1,"Salam SVP essayez de trouver une solution pour cette application , parce que ya un énorme bug on ne peut l'utiliser a peine on ouvre elle se referme de suite, Merci d'avance Salam",2024-04-18,2024-04,1,12.0,,,négatif,site_app,False
+394a5411-b213-45a7-a5d0-445b33f45acc,Mohamed gherbaoui,1,"Bonjour, Impossible de gérer les réservations, l'application se ferme automatiquement, veuillez corriger ce problème.",2024-04-17,2024-04,3,12.0,,,négatif,site_app,False
+4517b08c-cd6f-4c90-b77f-6491722c4143,Amine Bouziane (Dr.Bouziane),1,"J'ai rempli mes informations et réservations, maintenant Ça bug à chaque fois que j'ouvre l'application",2024-04-16,2024-04,1,,,,négatif,site_app,False
+ea1bdbb4-e2fc-4e8f-b9b3-c465eb91e4eb,Nouri Teguia,5,Très bien,2024-04-16,2024-04,0,12.0,,,positif,autre,False
+2441e2ba-896f-4af4-b0fb-0d0580efbb77,Toubib Magnificos,3,"L'APPLICATION se ferme toute seule , après avoir renseigné un voyage dans l'onglet MES VOYAGES. Merci de remédier à ce bug.",2024-04-16,2024-04,1,12.0,,,neutre,site_app,False
+5a63b18a-a40c-4f6b-99ee-698b83051709,Nasif Tabet,1,Application qui se ferme quand je rentre le nom et le numéro de réservation,2024-04-15,2024-04,0,12.0,,,négatif,site_app,False
+ab9e9ac8-51cf-4256-ad94-a5d32f5d744d,Kea Aek,1,Nul Nul Nul sur tous les fronts Et ce depuis plus d'un An,2024-04-13,2024-04,0,12.0,,,négatif,autre,False
+ff4e3bc8-413c-4a4e-8ad4-997d19a9f1d5,Sofiane Rahim,1,L'application bug à chaque fois que j'ai mis mon numéro de réservation et mon prénom ! J'espère que vous pouvez trouver une solution à ce problème,2024-04-13,2024-04,1,12.0,,,négatif,site_app,False
+533851f2-93bf-4e62-b69f-bde368b0ad01,Salima Chadli,1,je rencontre un souci avec l'application,2024-04-13,2024-04,0,12.0,,,négatif,site_app,False
+49bea15a-e6f3-4da4-9a21-e8691dcc4956,Said Bounehas,5,تطبيق مفيد جدا شكرآ,2024-04-12,2024-04,0,12.0,,,positif,autre,False
+140340fe-b9a0-4ec5-9169-1eae4e85395d,Zoheir Lagab,1,"A l'instant des autres avis que je partage entièrement, l'application beug à chaque utilisation, notamment lors de l'achat de billets, et surtout lors de la gestion de la réservation. UNE MISE A JOUR EST PLUS QUE NECESSAIRE.",2024-04-09,2024-04,7,12.0,,,négatif,site_app,False
+842afcd3-4459-4749-ac35-67f9686f92d8,ANISSA DEBOUCHE,1,Ne fonctionne pas,2024-04-06,2024-04,1,12.0,,,négatif,autre,False
+2834febc-796c-495c-b381-11e89faf29e5,Samir Maouedj,3,التطبيق جيد لكن من فضلكم يجب إضافة خاصية إختيار الرجوع الى مطار أخر ،لأن في الوقت الحالي المطار الدهب هو مطار الرجوع وهدا يتنفى مع تطبيق الحقيقي للخطوط الجوية الجزائرية ، مثل اريد دهب من تلمسان الى باريس ورجوع الى وهران,2024-04-05,2024-04,0,12.0,,,neutre,autre,False
+717a79aa-7943-4026-a194-00892b90666c,VerdaX V,1,"Beaucoup de bug, l'application se ferme toute seule. Aucune synchronisation avec le profil.",2024-04-05,2024-04,8,12.0,,,négatif,site_app,False
+8f90ab39-f970-4602-b501-aff52db36cfb,Karim Généreux,1,"Bonjour j'ai renseigné mon nom et, mon numéro de réservation depuis l'application bug à chaque fois que je ouvre l'appli elle se ferme immédiatement, je ne peux plus l'utiliser merci d'avance de faire le nécessaire pour que ça puisse fonctionner inchalah",2024-04-05,2024-04,186,12.0,,,négatif,site_app,False
+39dcad55-201c-4607-ae09-4ee0d1f43a61,Abdelkrim MEGUELLATI,1,"Bug sans arrêt !!!???, une mise à jour est nécessaire.",2024-04-03,2024-04,2,12.0,,,négatif,site_app,False
+77432528-2fbd-4941-bdc1-73aa6f05c1a1,Ibrahim,1,جميع الخدمات في خبر كان,2024-04-03,2024-04,1,12.0,,,négatif,autre,False
+4c156620-2634-4603-954d-e221f61013d7,Aziz BENZOUAOUI,1,Crash des ouverture,2024-04-01,2024-04,1,12.0,,,négatif,autre,False
+49a3a7d1-26ce-432d-8c20-50d793d20e45,Azeddine zizou,2,L'application se ferme toute seule ???,2024-03-31,2024-03,1,12.0,,,négatif,site_app,False
+4bc34e83-da88-44a3-8108-642a08fe77d8,FARID,1,"Pareil que les gens, l'application se ferme systématiquement. Quand je veux regarder l'état de mon vol réservé.",2024-03-31,2024-03,2,12.0,,,négatif,site_app,False
+3400ccaf-708f-459c-973d-68b319a917cb,لزهر عمراني,1,"L'application est obsolète, je n'arrive pas à me connecter sur ail Algérie.",2024-03-29,2024-03,0,12.0,,,négatif,site_app,False
+e4a61007-68a5-440b-a30f-6bb954952d7e,MOHAMMED NEMICHE,5,C'est une application qui permet de gagner bcp de temps pour réserver un vol suivant le besoin. Seulement elle s'arrête systématiquement lors de consultation des voyages programmés.,2024-03-28,2024-03,49,12.0,,,positif,site_app,False
+5f64a9a3-7baa-4f1d-9ff4-724e1cdc5f26,Sariach SamoU,1,Je viens de faire une reservation.montant retiré de mon compte .mais aucune confirmation o .o que dois je faire !!!,2024-03-28,2024-03,1,12.0,,,négatif,autre,False
+e58d86d8-3192-4b6b-8147-d6b25acf5a74,Haythem,1,Ne sert absolument à rien. Application qui crash à chaque première requête,2024-03-28,2024-03,0,12.0,,,négatif,site_app,False
+f22e987a-81d3-4331-9411-fa692a330bf4,Khaled Harbi,5,Très bien merci,2024-03-28,2024-03,0,12.0,,,positif,autre,False
+5e623ed1-39ce-4c39-8dd1-cc9c19ba5aa5,Walid Lounici,1,Ça fonctionne mal,2024-03-28,2024-03,2,12.0,,,négatif,autre,False
+bd628679-b76e-4117-829a-603334799556,Sabrina Djebrouni,1,L'application se ferme systématiquement !! Impossible d'accéder à sa réservation afin d'apporter des modifications.,2024-03-27,2024-03,6,12.0,,,négatif,site_app,False
+9512ad17-588f-49dc-b4da-a1aa5fc2936c,z rzhoo,1,"Instable,",2024-03-25,2024-03,0,12.0,,,négatif,autre,False
+6555977d-cc3b-458b-8ea4-3f28e52ee488,Omar YamaniQlf,1,للأسف مشاكل بالجملة والتعويضات ربي يعوضك,2024-03-25,2024-03,0,,,,négatif,autre,False
+5df0b5d3-8af4-4f44-abf5-53ce2d779ec9,Adel OURKHOU,2,"Depuis plus de 2 mois l'application est inutilisable, elle se ferme toute seule et bugs, le système la reconnaît comme défaillante et propose de la desinsttaller. Merci de corriger cela.",2024-03-24,2024-03,13,,,,négatif,site_app,False
+0ff0c957-2d2d-4c79-bdb6-16b67167b962,Boubagra Bouba,1,ça vaut rien air algerie vous perdez votre temps et votre argent et en plus vous cherchez toujours les problèmes ..,2024-03-24,2024-03,0,,,,négatif,autre,False
+8f15124d-3870-49a9-a726-89df9ab71298,Sissoune,1,"Impossible d'utiliser l'application, elle se ferme dès qu'on l'ouvre",2024-03-23,2024-03,0,12.0,,,négatif,site_app,False
+de80dd57-1c19-42e4-8aa4-58175f8f4ff8,Nassim Mokhtari,1,Malgré tous les commentaires mentionnant les bug suite au renseignements des vol réservé rien ne s'est fait donc je met un 0,2024-03-22,2024-03,0,12.0,,,négatif,site_app,False
+115584d1-d3e5-448f-8404-059e7d4fd7eb,حسين ناضور,2,J'ai effectué une réservation sur l'application mais le lendemain j'arrive plus à consulter l'application elle se ferme systématiquement juste après l'ouverture!!!??? bizarre c'est comme elle veut dire je suis algérienne,2024-03-22,2024-03,1,12.0,,,négatif,site_app,False
+c826f523-98f0-455c-835e-cbfe48001476,Sara chourouk Benali,1,Not helpful,2024-03-20,2024-03,1,12.0,,,négatif,autre,False
+bd37279e-cf05-4450-bf84-af0704c57660,Nettoyage Eco,1,Air couscous. Ça dépend quand tu arrives 😂,2024-03-19,2024-03,0,12.0,,,négatif,autre,False
+97dd34f9-4c3e-4755-9527-675402a6dc5c,Alexis Debret,1,Plante à chaque lancement dès qu'un billet est enregistré.,2024-03-15,2024-03,0,12.0,,,négatif,autre,False
+4e1d42ee-034d-4922-a2a1-0a5bacb535ac,djaouida respaut,1,Mais pas possible de l'ouvrir 😤 elle saute se ferme toute suite 😡,2024-03-13,2024-03,1,,,,négatif,autre,False
+ecb6b55d-9055-4535-8ceb-7de3e2650f82,Amine (“SaRRaZin”),1,"Salam alaikoum, dès que j'ai renseigné mon nom et mon numéro de dossier l'application s'est fermée. Elle se ferme systématiquement dès l'ouverture. Inutilisable. C'est honteux de galérer autant pour un service aussi simple en 2024. Bonne continuation quand même.",2024-03-13,2024-03,105,12.0,,,négatif,"personnel, site_app",False
+a5e42721-4cb7-4bcb-b5bf-640b43cc13c1,Lywai i,1,Impossible à ouvrir,2024-03-13,2024-03,2,12.0,,,négatif,autre,False
+73da5b52-4140-4525-b308-9fd9ceaa4f0a,Sami Chaabna,1,"Application devenu inutilisable depuis 2 mois ou plus, se ferme directement au démarrage et pas moyen de l'utiliser.",2024-03-10,2024-03,12,12.0,,,négatif,site_app,False
+6698c316-1fc7-401b-b381-81cbdd71aad7,MIROU AMR,1,L'application est impossible à utiliser depuis février 2024. Un bugg fermé systématiquement l'application dès son ouverture ! Aucune réparation n'a été effectué depuis février ! C'est pas du tout sérieux...,2024-03-09,2024-03,13,12.0,,,négatif,site_app,False
+81eed8c2-d36c-4a0f-b35e-7c3f644d91bd,bilal kassar,5,Excellent,2024-03-08,2024-03,0,,,,positif,autre,False
+98aa02b1-9204-43e6-9d9d-f769b89e7b8c,fadli mohammed,1,Trop nul Une honte pour un pays continent comme l'Algérie,2024-03-08,2024-03,0,12.0,,,négatif,autre,False
+60bc103e-02c3-4da9-a350-59e4c191dadc,ilyes i,1,c'est une honte une appli comme ça pour une telle ompagnie d'un tel pays vraiment honteux on est en 2024 les développeurs y'en a des millions,2024-03-08,2024-03,0,12.0,,,négatif,site_app,False
+09ca838e-a166-49c8-aa5c-6de155eff011,Saad Maa,1,اسوء تطبيق فالدنيا لايشتغل الا على الهواتف الغبية يغلق التطبيق لوحده بدون سبب,2024-03-07,2024-03,0,12.0,,,négatif,autre,False
+d379995c-d4e0-49e4-a26c-f1c97b31b9d6,CMBB BELHADJ BENZIANE (“KHADIJA”),1,Impossible d'utiliser l'application dès que j'appuie dessus elle se ferme immédiatement,2024-03-05,2024-03,2,12.0,,,négatif,site_app,False
+17e9b0a3-a090-4cf4-82e1-6f95277e0604,rabah benhacine,1,Reflet de l Algérie votre application,2024-03-04,2024-03,0,12.0,,,négatif,site_app,False
+0ea97d3e-d882-42c5-a495-44a06f4a0bfc,kamel zaghdane,1,Elle ne fonctionne pas. Dès que je l'ouvre elle se ferme instantanément,2024-03-03,2024-03,2,12.0,,,négatif,autre,False
+9cef600d-9de3-402b-9888-f16ac9d64a75,Amine HATTAL,1,C'est terrible comme application. L'appli se redémarre sans arrêt après l'ajout d'un voyage via un numéro de réservation.,2024-03-02,2024-03,11,12.0,,,négatif,site_app,False
+25f2f054-acce-47e1-a15a-e0b157d3e0d5,Mohamed_Bachir,1,Personnel désagréable et mal élevé à l'embarquement 1 Mars 2024 Vol AH 1012 de 16h40 vol à partir de l'aéroport international de Houari Boumedienne (ALG ) destination Paris Charles de Gaules (CDG ) Un personnel désagréable qui sont mal élevés avec les clients en plus ils considéres que ce que tu as achetés à l'aéroport comme un bagage à main franchement il reste plus rien cette compagnie est mal gérée et même en péril de perdre toute sa clientèle au fur et à mesure et quand tu réclames ils gueul,2024-03-02,2024-03,1,12.0,,,négatif,"bagage, personnel",False
+f3ca31e9-a8e8-4782-bac1-992cc98ad6a3,Samai ninou,1,When entering the Apply. The application closes and cannot be used,2024-03-01,2024-03,1,,,,négatif,site_app,False
+cff9ad23-19e4-49a4-9baa-e9846dae8cb3,Oumeziane Imed eddine,1,L’appli s’arrête au lancement ! Merci de fixer ce beug,2024-03-01,2024-03,2,12.0,,,négatif,site_app,False
+b643d478-4f1c-4dae-ab1f-5f2d9218ca0c,Ismail Triki,1,"Bug systématique après l’ouverture de l’application , elle se ferme !!!",2024-02-29,2024-02,1,,,,négatif,site_app,False
+d9c461ab-2f67-407d-aa16-7541cd7da953,Raouf Benz (Mr BENZ),1,La pire compagnie au monde a fuir absolument,2024-02-29,2024-02,1,12.0,,,négatif,autre,False
+54c0f2f6-d9b9-4abc-bb1b-29fa58f62a2d,A. DIB,1,Nul application trop de beug,2024-02-28,2024-02,1,12.0,,,négatif,site_app,False
+e9c03924-f255-476e-bca9-5ff070183c00,Amine Ait Djebbara,1,Elle s'ouvre et elle se ferme,2024-02-27,2024-02,1,12.0,,,négatif,autre,False
+25a99701-4218-418c-9c43-e71cc4e91e62,Madjid Hammouche,1,L'application ne fonctionne pas,2024-02-26,2024-02,1,12.0,,,négatif,site_app,False
+bd694032-c880-49d8-8b08-18f94c13ced9,Stan Stan,1,Bug sans arret sur andoid fonctionne mieux sur apple.,2024-02-24,2024-02,1,,,,négatif,site_app,False
+a9f54f70-e778-4053-898f-59f49318eb0f,Moi Dmsa,1,"A l'image de la compagnie, tjs un problème. Impossible d'afficher ses réservations. 123 viva les pb",2024-02-24,2024-02,1,12.0,,,négatif,site_app,False
+53efcc1b-dff4-42a9-8af5-481aa970c107,Abdel malek Souadji,4,Super sympa,2024-02-23,2024-02,0,,,,positif,autre,False
+29d484bb-4555-4f24-8e0e-11acd0a375d4,Khaled Chaib,1,problème de tiere monde j ai effectué une réservation le paiement effectué mais la réservation non prise en charge même la réclamation avec mail pas de réponse,2024-02-19,2024-02,1,12.0,,,négatif,site_app,False
+3236d783-2e49-4737-bc2a-541348a8e6eb,facih tachtioui,2,"Sur l'application,je cherche a rajouter un bagage en supplément et le payer pas moyen. J'ai l'habitude de voyager avec d'autres compagnies c'est plus simple.",2024-02-15,2024-02,19,12.0,,,négatif,"bagage, site_app",False
+b802d0fa-45cc-48e3-8360-409bcdb84375,Kilo Kochier,1,Tsoti wahadha,2024-02-15,2024-02,1,12.0,,,négatif,autre,False
+adea639d-d097-4dce-bb1d-5a396761b637,Hami Dani,1,C'est n'importe quoi elle marche pas comme air algerie,2024-02-14,2024-02,1,,,,négatif,autre,False
+da668384-c14d-4e56-a4ab-d3a9ac5ade0d,Yacine Abdelghenine,1,"Réparé cette application, elle bug depuis un bon moment. Elle s'ouvre puis elle se referme direct.",2024-02-13,2024-02,15,12.0,,,négatif,site_app,False
+cad9e4c1-879b-4335-995d-37452a0f3cb4,Nourredine Chorfa,1,L'application n'a donné qu'une seule fois le programme de vol,2024-02-10,2024-02,0,,,,négatif,site_app,False
+7d430afa-90dc-4b76-a049-42ed7d04ba5b,Cherif DANI,1,Médiocre,2024-02-07,2024-02,0,12.0,,,négatif,autre,False
+e1c8036c-d5d4-4771-a80d-3ea3642723e2,Mohamed Tahar KRIM,1,"Lorsque nous choisissons un voyage entre différentes villes, nous ne pouvons pas choisir le prix ou le billet modifiable.",2024-02-06,2024-02,3,12.0,,,négatif,autre,False
+c9bdcb0e-5ea4-4af1-8d63-a2652672545a,Bentriki Ahmed Rabie,1,Manque affichage d'un grand calendrier pour faciliter la tache,2024-02-04,2024-02,0,,,,négatif,autre,False
+b7f6ba35-2d2a-44f1-bc03-1e0463822245,Mohamed Amine OUKAZI,1,L'application s'ouvre et plante 5 secondes plus tard. Inutilisable.,2024-01-24,2024-01,15,12.0,,,négatif,"retard, site_app",False
+40e474e7-aa10-4ed5-a130-a45e6bc5e7a0,amine kaci,3,L'application plante après l'ajout des information d'un vol sur s23 ulta,2024-01-21,2024-01,0,,,,neutre,site_app,False
+6759734c-d760-4012-b688-f359925b1ef2,Mohammed Gueraiche,5,Très bien,2024-01-21,2024-01,1,12.0,,,positif,autre,False
+cab3e762-f7ad-419f-9cd2-16eae348fdf1,Nour elhouda Achour,1,"L'application bogue après une seconde d'utilisation, elle s'ouvre à peine, ce problème traîne depuis des mois et c'est toujours pas réglé !!",2024-01-20,2024-01,4,,,,négatif,site_app,False
+5ca3df29-97b6-4fc5-8032-b0d27db93d92,anouar bendjerba,1,Null l'application ne fonctionne plus,2024-01-17,2024-01,1,12.0,,,négatif,site_app,False
+71117fb5-7379-4687-9ab9-83ca7df4a0a5,Hassiba Adel,5,Goodapp,2024-01-17,2024-01,0,12.0,,,positif,autre,False
+3296c490-3841-4f4f-9a77-83feeffd909c,Sabrina Amr,3,Avant l'application était fluide sinon maintenant elle est devenue inutile tellement qu'elle bug tout le temps... A chaque fois je la désinstalle et je l'installe à nouveau et c le même problème 😑😑😑,2024-01-15,2024-01,26,12.0,,,neutre,site_app,False
+1d4626e9-4504-4b2c-a4b6-563af4603fa7,Zino Amroune,5,Ci bien,2024-01-13,2024-01,0,12.0,,,positif,autre,False
+f68b87ff-2dac-4cbe-8269-2513ceb58e01,BOUHALI SELMANE,1,برنامج الوفاء لا يعمل مع العلم اني امتلك اكثر من 7000 نقطة فهو يتوقف في المرحلة الاخيرة من التسجيل فلمذا لا تريدون منا الاستفادة !؟ غير هذا التطبيق جد مفيد و سهل الإستعمال,2024-01-12,2024-01,0,,,,négatif,autre,False
+337300c1-40f4-4d07-90d9-8fae8bdf70da,Aziza Serdoun,1,l'application s'arrête systématiquement des que je l'ouvre l'œuvre nul,2024-01-11,2024-01,2,12.0,,,négatif,site_app,False
+495b94ac-66f6-44e5-8c2f-3131394a98cf,Djamel Bentoumi,1,Appli bug et ne s'ouvre plus,2024-01-11,2024-01,1,12.0,,,négatif,site_app,False
+bec78d79-c9ba-4acc-a8f4-e81c142472cd,Zitout Arbi,1,Le service est vraiment catastrophique je ne comprends pas a quoi ça sert cette application !!!,2024-01-06,2024-01,0,,,,négatif,"personnel, site_app",False
+fbb6b0b0-5fab-4735-bdfe-d41924393553,Djamel Irbah,1,Application bug depuis la dernière mise à jour.,2024-01-04,2024-01,2,,,,négatif,site_app,False
+6e97b96e-fd2b-45d5-90dc-4eff1fbb5ce7,Oussama Bennia,1,أسواء أسواء بطاقة في العالم كارثة راهي,2024-01-02,2024-01,0,,,,négatif,autre,False
+3a1d7026-dd76-4119-a786-000442f72482,selmane Benzerdjeb,5,Superbe,2024-01-01,2024-01,0,11.0,,,positif,autre,False
+9785ff4b-d971-498e-9b87-53a2ccb383e6,Hicham kha,1,Il y a un problème sur l'application il faut dernière mise à jour,2023-12-30,2023-12,3,12.0,,,négatif,site_app,False
+81bbf29f-3694-4d1e-ac87-03d0480c7597,Lamia Benhalima,1,Impossible de me connecter.. c'est inadmissible !!!!!,2023-12-27,2023-12,1,12.0,,,négatif,autre,False
+0f55f3c5-d77f-4bfb-b5eb-36dc52d52d46,Hakim Mehires,1,"Je me demande qui développe et entretien cette appli, ça ça bug tout le temps, c'est la honte.",2023-12-14,2023-12,3,12.0,,,négatif,site_app,False
+4aa5d8ea-08d2-48d6-9e7c-ecbbc97fdf9d,Sidali sid ali,1,تطبيق فاشل,2023-12-09,2023-12,0,,,,négatif,autre,False
+19a64029-0e16-4f52-8327-03001ffdcf07,Tarek WoRkout,5,C bien,2023-12-08,2023-12,0,,,,positif,autre,False
+8a6134fb-0aa7-496a-82a5-c4f0395f7892,Riad Kenzi Brahimi,2,L'application bug tout le temps impossible de l'utiliser depuis le mois d'octobre,2023-12-08,2023-12,5,12.0,,,négatif,site_app,False
+a6c8d840-ca10-4d8f-a67a-832e8c139833,Bechaa Abderrazzak,1,Avancé en retard technique comme d'habitude,2023-12-06,2023-12,1,12.0,,,négatif,retard,False
+feaa8075-6854-4040-a6e7-7b6fb92cf4f7,nono gui,1,Indisponibilité depuis 10 jours,2023-12-04,2023-12,1,,,,négatif,autre,False
+c340baff-65f7-4764-959a-df4bd6c443f7,chawki usma,1,Bug bug bug,2023-12-03,2023-12,1,12.0,,,négatif,site_app,False
+d6d26aa2-d778-4326-9727-662c6f296335,Mohamed Meghraoui,5,La meilleure compagnie👏👏👏,2023-12-02,2023-12,0,12.0,,,positif,autre,False
+091e5b88-8636-4164-9c06-fe4ab299f927,Djamal Mahindad,4,"J'ai toujours voyagé avec la compagnie nationale air Algérie, le dernier date du 25/11/23 sur la ligne Montréal-Alger. J'ai fait un excellent voyage. Merci pour les agents aussi bien au sol au niveau de l'aéroport de Montréal que pour le personnel à bord.",2023-12-01,2023-12,5,12.0,,,positif,personnel,False
+5bc7e5fc-dbeb-49ea-afd1-3bb7c4fcb928,Hadjer,1,La connexion du programme de fidélité (Plus) n'est pas possible. Et dès que tu rajoutes un deuxième vol ca beug et se ferme toute seule,2023-12-01,2023-12,28,12.0,,,négatif,autre,False
+96b51159-3cd0-4275-ab16-3a6bddd34510,rezkallah abdellatif,3,Jespert que vous puissiez introduire les conventions genre une case dans l'applicationvous après avoir demandé l'attestation de travail au début de l'année pour qu'on puisse réserver en ligne sans se déplacer vers vos agences pour réserver,2023-11-30,2023-11,0,,,,neutre,"site_app, confort",False
+7b3a44c0-c9f5-4dcc-a70d-74698487374d,Khad (“Khad”),1,J'ai jamais vue une application aussi catastrophique rien à faire à part la desinstaller car inutile je suis vraiment déçu mais à voir si il n'y aurait pas quelque chose de plus professionnel à faire,2023-11-30,2023-11,14,12.0,,,négatif,site_app,False
+0d06719f-69b7-4c99-9015-45eeb1362f76,Mr Joseph,5,Bel élan vers le professionnalisme... Bravo et bonne continuation,2023-11-29,2023-11,3,12.0,,,positif,autre,False
+3095a84b-cff0-4af0-a7fa-79f4b1a98d06,Les Experts Du Raid,1,Bug tout le temps depuis la dernière maj obligé de désinstaller l'appli,2023-11-26,2023-11,7,12.0,,,négatif,site_app,False
+26bb59e7-5143-4fc1-83af-81e83203e6b1,Adel Eldeo,4,"J'utilise l'application pour mes réservations depuis longtemps, ça me permet de ne pas me présenter au agences... Facile et utile.",2023-11-20,2023-11,3,11.0,,,positif,site_app,False
+d4c497a6-4795-4665-84dd-3b101e52587f,leila bakouche,1,"J'essaie de modifier un vol, ça marche pas. Quand tu achètes un billet en ligne tu tapes les infos pour le chercher ( le suivre ou le modifier) ça marche pas. J'ai testé sur plusieurs vols.",2023-11-19,2023-11,60,12.0,,,négatif,autre,False
+8c123411-42d7-43fb-a4c0-dd3399dadc67,dz system,1,"J ai fait une erreur a deux reprise avec cette application en effet ,lors de la resavation de mon billet j ai mal saisie la date de depart de mon vole parsk le calendrié se positionne par défaut sur le moi prochain, jai fini dans les deux cas sur les listes d attente. Esséyé de reglé ce genre de probleme. ,",2023-11-16,2023-11,3,,,,négatif,"retard, site_app",False
+a8340d49-64de-43c6-ac20-0a7d00d585b1,Ali Sied,5,Les depart pour Oran algerie les jours et les horaires S.v.plais,2023-11-14,2023-11,0,11.0,,,positif,autre,False
+c6f5228e-47f1-4158-9049-99836bfa350e,lounis mustapha,4,On arrive pas à changer de classe de économie vers business sur l'application,2023-11-13,2023-11,1,12.0,,,positif,site_app,False
+2c246fe5-2ad8-4122-8946-69081d49d7b9,Mohamed nasim Mizi,1,Des mafias,2023-11-12,2023-11,0,11.0,,,négatif,autre,False
+4ae00ec7-3b77-496f-a37e-01870cb24fec,Meduse west,5,Facile à utiliser je valide,2023-11-06,2023-11,0,11.0,,,positif,autre,False
+56342104-2d5e-4d69-98c3-f17708df9230,Chérif HAMZAOUI,5,L'application est beaucoup mieux qu'avant.,2023-10-29,2023-10,0,11.0,,,positif,site_app,False
+45c21b44-253c-4f4b-84f4-7ab9aed4bfcf,Khoukha Khaoula,1,شركة تتبع المعايير الدولية غير في الاسعار اما الخدمات تحت 0 للاسف ساعتين في الطائرة مايعادل رحلة مع الاقامة اسبوع في فندق في بلد آخر حسبنا الله ونعم الوكيل فيهم والاسعار تزيد بالمليون كل ما تطلع عليها من تطبيق هذا,2023-10-28,2023-10,0,11.0,,,négatif,autre,False
+7e259226-a2b0-4188-8b22-8f22c0f123c2,Mohand kbyl,5,Une compagnie aérienne à recommander,2023-10-22,2023-10,0,11.0,,,positif,autre,False
+a634c2e7-332a-4c57-b8ad-f3262a6f8ec6,farid saboundji,5,Fidelle a Air Algérie,2023-10-22,2023-10,2,11.0,,,positif,autre,False
+dec0b1dd-ae98-4ee0-a290-38e6078b2a94,mehdi boogy,1,Un seul bagage de 23 lol ?,2023-10-21,2023-10,1,11.0,,,négatif,bagage,False
+254c2f10-d91f-43e1-9380-1db1e4f500ed,Ayoub Anis,1,Vous êtes nuls un seul bagage de 23KG vous avez quoi dans vos têtes,2023-10-21,2023-10,0,11.0,,,négatif,bagage,False
+ef141fb0-9baf-4145-8e30-1b40a7e5b3af,Samira Bouzara,4,"bonne compagnie mais l'appli 😤 ça beug ce dernier temps ça fait une semaine j'arrive pas a accéder aux vols vers l'Afrique,",2023-10-18,2023-10,0,11.0,,,positif,site_app,False
+b879686f-f62b-44bb-ad31-e17b47042fed,Younas Bouacida Abd Elkader,1,ربي يوفق,2023-10-14,2023-10,0,11.0,,,négatif,autre,False
+cbf8ccee-e5b5-4ade-a890-55870b91108b,MHD,1,Air Ali baba et les 40 voleurs.,2023-10-08,2023-10,1,11.0,,,négatif,autre,False
+61daf0c9-dc32-4d57-be07-d373934b8d80,Tarik Razik,5,Très pratique,2023-09-27,2023-09,0,11.0,,,positif,autre,False
+e12f3606-4b67-4c2c-af92-d150b05cc03a,Louni Sabah,3,Elle bug depuis hier,2023-09-22,2023-09,0,11.0,,,neutre,site_app,False
+1ddd40d2-cd4a-457e-8808-e00f89c02ee3,Salh Bettar,5,Excellente,2023-09-20,2023-09,0,,,,positif,autre,False
+4e5b0db3-604b-4bc2-adc1-538acb7ddf0f,Ra Fik,1,Le citoyen algérien reste toujours dans mis aire . pauvre tiers-mondiste Bidon.,2023-09-16,2023-09,2,11.0,,,négatif,autre,False
+bf20c495-7b5f-4b2d-9c3e-eaa66836b6d7,Charef Noureddine,1,سراق رجعولي دراهمي تاع التذكرة وقت كورونا ارسلت كثير مايل لا تردون,2023-09-12,2023-09,1,11.0,,,négatif,autre,False
+a9eac40b-a41e-42eb-8a13-dd664f451c3d,Fatima zohra Touil,5,Tres bien,2023-09-10,2023-09,0,,,,positif,autre,False
+764a6b21-d662-4a92-9b78-7b5e165bdc06,Sidira Fofa,5,Très bien 👍,2023-09-07,2023-09,0,11.0,,,positif,autre,False
+cdba416c-03ce-45df-baaa-5ba7d9b4cc1f,Younes Dahane,1,La honte de notre pays,2023-09-04,2023-09,1,11.0,,,négatif,autre,False
+2fb3d313-04fc-4e5d-a7f4-6834c033b9ce,Mohamed chahine Louiza yasmine,5,Très bonne application,2023-08-29,2023-08,1,11.0,,,positif,site_app,False
+840bd05c-a135-4e7f-a4b3-83a33f255bc1,Gentarro,1,"Plantage au démarrage, renvoie des erreurs de serveurs, inutilisable quand on essaie de se connecter malheureusement.",2023-08-14,2023-08,1,,,,négatif,retard,False
+ff62c03b-9763-4a6b-bd8b-230b30fde1f6,joe Lake,1,Je ne sais pas qui a acheté un billet avec cette appli mais c'est impossible ! ERREUR permanente ! Allez voir l'appli de VOLOTEA ! Copié la ! Ah .. même ça vous ne savez pas faire ! Après le tourisme le pays doit développer ses exportations vers le numérique..c'est pas gagné ! Vous êtes quand même la compagnie nationale. L'image du pays !,2023-08-05,2023-08,3,11.0,,,négatif,site_app,False
+f7c3bd66-5800-4d21-a3a5-86102663dfa9,Amenay illeli,1,"Incroyable ! Aucun billet disponible a partir de 9 août au depart de paris pour alger, sur le site d'air Algérie, mais des billets a gogo d'air Algérie sur les plateformes comme opodo et jetcost! Cherchez l'erreur ! Je prends Air-France tant pis!! Voila.",2023-08-03,2023-08,0,11.0,,,négatif,"retard, site_app",False
+1f036d1b-4fe9-47a9-981d-9f86b2783a60,chahin toto,5,Fortunately there is technology that helps a person Because the majority of the workers of this company do not help customers,2023-08-02,2023-08,0,11.0,,,positif,autre,False
+35e2e9cd-e8c0-428c-b863-d95571eeb5ed,Nasr Ben (Benselma),1,Une honte cet app aucun respect du consommateur,2023-08-02,2023-08,0,11.0,,,négatif,autre,False
+3dd8a0b0-f941-425c-be44-089b4e319823,Tarek Foudad,1,أسوأ تطبيق اعاني لفعل اسهل شيء و هو الدخول لبروفايلي فقط,2023-08-01,2023-08,0,11.0,,,négatif,autre,False
+acfe4cab-d9da-42c6-b370-a4090653231c,Mou Ml,1,Nul peut mieux faire c honteux,2023-08-01,2023-08,0,11.0,,,négatif,autre,False
+2b58b8d5-bbf7-4d03-85d7-f6fb27bb8f8f,Ahcene Bouchemla,4,Super application,2023-07-29,2023-07,0,11.0,,,positif,site_app,False
+0f721a21-ae96-49eb-a7da-019034b66a38,AMIR Prince,2,Attention Votre compte sera débité et la réservation non confirmée Éviter la réservation à travers cette application,2023-07-18,2023-07,1,11.0,,,négatif,site_app,False
+0c994aa8-ce29-444a-85c4-a6380bd43fbf,Hamza,1,"Quand j'achète avec la carte edahabia, l'argent est volé.",2023-07-07,2023-07,0,11.0,,,négatif,autre,False
+4679e277-f327-411e-86d8-a954516ada50,houssam zemouri,5,Top et facile pour les réservations,2023-07-06,2023-07,1,11.0,,,positif,site_app,False
+762beb86-fdb0-4715-8def-bf25c1dd12e4,mohamed tayeb,5,شكرا جزيلا,2023-06-24,2023-06,0,11.0,,,positif,autre,False
+1c67f334-f459-4a35-ae1c-ae9af5e84a08,Belayli Rayan,5,Pas de place trop cher wesh les DZ,2023-06-20,2023-06,0,11.0,,,positif,confort,False
+a94ea6e1-64fc-435a-a473-ca61203bc184,Mohamed Boukedira,5,Bein merci,2023-06-19,2023-06,0,11.0,,,positif,autre,False
+c96224d8-10b1-4c30-a9c0-50ed725042c5,Un utilisateur de Google,5,Carte fidélité plus air Algérie bagage,2023-06-13,2023-06,0,11.0,,,positif,bagage,False
+a96288ac-870b-4b31-82ba-103207812ba4,boum Ch,5,Très bien 👍 Continuer à vous améliorer,2023-06-04,2023-06,1,,,,positif,autre,False
+bcbe13a2-eb59-4d1c-b73d-b7086215933f,Join Yong,1,So old app,2023-06-02,2023-06,0,,,,négatif,autre,False
+c5692ec5-9c56-4730-8830-6371adc477eb,Hossine GLaouzi,1,Catastrophe app,2023-05-29,2023-05,0,11.0,,,négatif,autre,False
+99af8068-ab35-4d72-accd-dc38ec277c01,Moshab Tabti,1,No comment. Ne mérite même pas une étoile. Une application vraiment pas pratique pour l'utilisateur. Ya rien qui va. Mais bon j'imagine que cela va rester comme ça parceque c'est toujours comme ça malheureusement. Au cas où je suis développeur d'applications mobile. N'hésitez pas a me contacter si besoin. Je pourrais améliorer cette app en Android et iOS.,2023-05-18,2023-05,15,11.0,,,négatif,"retard, site_app",False
+1f93785f-da53-4e8d-8046-ce3b1bb26d1f,Chaoui Ali,5,Je suis très fidèle à air Algérie,2023-05-06,2023-05,0,,,,positif,autre,False
+26a15058-51fe-48b2-a493-5799ef5c6f1d,Karima td,4,Dommage qu'ont ne puisses pas payé en euros quand ont est à l'étranger,2023-05-04,2023-05,0,11.0,,,positif,autre,False
+0c12fabf-262a-4114-8b43-8345aef62f34,Marzougue Khaled,5,Tooooop,2023-05-02,2023-05,0,,,,positif,autre,False
+ba76b393-1b9a-4a99-9e59-5bdfca99b9bd,Khaled HBH,1,ثقيلة علا لرض,2023-04-30,2023-04,0,11.0,,,négatif,autre,False
+e6501c3f-fad5-41f2-b347-ba0e65675e61,Asmani Lotfi,1,Les services électroniques d'Air Algérie fatigués 😫,2023-04-26,2023-04,0,11.0,,,négatif,personnel,False
+6f667530-d02f-42da-80b0-7a8528524b95,Sofiane touati,1,"Nul, zéro ! L'appli confirme des vols qui n'existe pas réellement, vous nous fatiguez wellah !",2023-04-25,2023-04,2,11.0,,,négatif,site_app,False
+8e797cc3-6f19-4c03-97ae-da687dde6ca9,Malik Tilioua,1,حسبنا الله ونعم الوكيل فيكم,2023-04-08,2023-04,1,11.0,,,négatif,autre,False
+25a165a6-3585-4fc5-bad0-8a2af2670839,Salah eddine Sh,2,Les billets sur dautres comparateurs moins cher et sur l'application officielle ya rien c'est pas que moins cher mais ya rien Quesque vous faites vous vendez les billets au autres compagnies maintenant je comprends pas,2023-04-03,2023-04,0,11.0,,,négatif,site_app,False
+9515aa7f-d8b7-495a-88b6-6b16ce35557c,Wiss Tigresse,5,"Excellente! J'utilise cette application depuis 2018, j'ai changé de téléphone 3 fois depuis et a que fois l'application air Algérie est parmi les premières que j'installe. Étant une cliente fidèle et satisfaite de la compagnie, cette application me permet depuis d'acheter mon billet, de réserver, de consulter les prix, de planifier mes voyages, d'ajouter mes miles pour ma carte de fidélité. je validé a 100% Epaiement testé pour: Toulouse, paris Beirut, Tunis, Paris, Barcelone, Genève depuis 2018",2023-03-29,2023-03,32,11.0,,,positif,site_app,False
+e2f8a43c-60d5-42a5-b067-9437e05758b6,nas mankour,1,Je comprends pas les prix des billets sont plus chère que Paris New-York l'application déconne elle date des iphone 3g L'accueille par téléphones et une agressivité que vous pouvez pas poser plus d'une seul question,2023-03-27,2023-03,1,11.0,,,négatif,"personnel, site_app",False
+4966a96e-90b3-457b-ad03-ec1fb99b0c28,Imran Essquioui,1,Si je pouvait je mets 0 etoile tout chere il faut ce reveiller un peu prcq la cest abuser,2023-03-15,2023-03,1,11.0,,,négatif,autre,False
+7cfd3f59-fa3d-4bb9-b009-4aa150945e92,Bonjour Bonsoir,5,Bon travaille,2023-03-10,2023-03,0,11.0,,,positif,autre,False
+d47be8d5-05ec-4c10-b550-704c2595630d,Sam727 Dar,1,App très lourde ne s'ouvre pas et tourne en boucle des qu'on solicite une info.. Ne sert à rien du tout.,2023-03-10,2023-03,0,11.0,,,négatif,autre,False
+c055683c-b8bd-4c0d-9127-f96994a0f3bd,Monsieur Boubeker,5,Très bonne application facile d'utilisation et très clair,2023-03-10,2023-03,3,11.0,,,positif,site_app,False
+a40509b2-7809-4df9-a791-84ba57246ff4,Ness Ness,1,"Je mets une étoile car moins on ne peut pas de rajouter son voyage, horrible depuis la dernière mise à jour... A revoir car beaucoup de choses sont impossibles à faire",2023-03-10,2023-03,3,11.0,,,négatif,autre,False
+e1fef97c-15ba-4f21-9c84-713c6ea5a1d9,Racim Rachad,1,La case de la réservation ne fonctionne plus,2023-03-09,2023-03,0,,,,négatif,site_app,False
+f3231741-2de4-4b42-9307-957169eec064,Sali Samiz,1,تطبيق ناقص و غير فعال و ضعيف... الاسعار و سهولة البحث و البساطة معدومة..الحق دوماج,2023-03-06,2023-03,0,,,,négatif,autre,False
+5246e169-c053-4438-9829-40160821f199,Marouf Haddadi,1,Pas de collation ou repas dans l'avion. Vol Marseille Alger et Alger Marseille. Malgré un retard de 2h à bord . Uniquement un verre d'eau ou soda pour tous les passagers.,2023-03-01,2023-03,1,,,,négatif,"retard, nourriture",False
+e250d4d8-0471-40f7-b107-97d7c0f139e0,KHALILE ELDJAZAIR,1,اسوء تطبيق لأسوأ شركة عصابة وطنية ، مع أسوأ موظفين والله نجمة خسارة فيكم,2023-02-28,2023-02,0,,,,négatif,autre,False
+3364512f-a33e-4689-94d2-b26b644ddce6,Abdenour Salam16,5,Bonne journée,2023-02-21,2023-02,0,11.0,,,positif,autre,False
+993058bd-9464-46f8-85a3-fd67d019656b,MADJID REZIGA,5,بالتوفيق إن شاء الله,2023-02-19,2023-02,0,,,,positif,autre,False
+746582c6-a2ed-45e3-8af6-90f3982aae89,Nenito LeCulte,1,L'appli est assez bien faite... Mais peut mieux faire. Par ailleurs comme beaucoup j'ai essayé de faire un e-paiement mais je n'ai jamais reçu de billet alors que mon fric a été pris ! Ceci est grave... Qui plus est en réservant même 8...9 ou 10 mois à l'avance... Les tarifs air Algérie sont exorbitants !!!!!!!!!!! Leurs prix n'obéissent à aucune RATIONALITÉ !!!!!!!,2023-02-19,2023-02,24,11.0,,,négatif,site_app,False
+c36a1c60-057e-403d-a239-d049ec1ed6c6,Mohammed Boucham,1,أسوء شركة بأسوء خدمات، التقدم للخلف,2023-02-16,2023-02,0,11.0,,,négatif,autre,False
+ddc860a6-6101-484a-a2e1-a79478063a0e,OPPO Fethi,1,يجب إعادة هيكلتها جذريا,2023-02-14,2023-02,0,11.0,,,négatif,autre,False
+c19ea7a8-8270-4a04-ad8d-9f889f2d1aaa,iyad didin,1,Ces juste pour vous dire :Si vous avez un problème Echec si se ne la pas accepter ça veut dire que à fait une faute exemple :le numero téléphone ☎️ La banque a vérifié il faut attendre il vont t'envoyer un e-mail de échec et vous le refais calmement . que à vous aider .,2023-02-14,2023-02,1,11.0,,,négatif,autre,False
+a7dbd08b-1f10-4b47-b566-abf9a11b4dfd,Mohamed Lamine LARBI,5,Well done trop bien lappli....merchi,2023-02-11,2023-02,0,,,,positif,site_app,False
+1f57ec3b-e839-484f-9f4e-79a07a10659d,BENKHALDI KHALED,5,السلام عليكم ورحمة الله وبركاته Excellente application Sauf nous espérons plus de détails sur les programmes des vols Vive air Algérie et vive l'Algérie Bon continuation,2023-02-09,2023-02,0,,,,positif,site_app,False
+bef143a6-5bae-421b-aad2-f43785cea0f2,MINA CHABANE,1,Enregistrement par ligne est pas possible . Améliorer votre service pour un billet cher il faut au moins faire l'effort pour facilité au passager .,2023-02-09,2023-02,3,11.0,,,négatif,personnel,False
+74075c74-8591-42aa-890c-03d21cfcd79f,Amine Meniai,1,"Very bad company, tickets purchased during the COVID, have not been refunded yet, To flee, run.",2023-02-08,2023-02,0,11.0,,,négatif,remboursement,False
+2f1dab5b-86c1-44c3-ad54-d3d595d396da,ahmed amine,2,يكفيكم فقط الالتزام بالمواعيد,2023-01-29,2023-01,0,11.0,,,négatif,autre,False
+c17ffe17-1258-4727-96f7-aca93da67bb5,Noro Dz,1,اطورو شوية جيت نسجل فيه خرجني من رحمة ربي بسطو شوية الامور ياخي نتوما ماتمدوش دراهم اقسم بالله غير برنامج يبان تاع قديم بزاف,2023-01-28,2023-01,0,,,,négatif,autre,False
+2e64a233-a5eb-4e99-8fea-ba3e2e37d0c7,rabah ounnar,1,Impossible d'ajouter une billet sur les réservations (mes voyages)y'a un problème avec les noms ! ! ! Sur ios ça marche mais pas endroid ? ?,2023-01-26,2023-01,0,11.0,,,négatif,site_app,False
+4c83927c-e262-4caa-be92-c489b06fa308,Camélia MNK1506,1,"INIMAGINABLE, l'interface la plus éclatée que je n'ai jamais vu de ma vie, complètement ratée, pas facile à utiliser, pas pratique, pas ergonomique, pas du tout lisible, complètement claquée au sol, à l'image des services proposés par la compagnie, à croire que l'application et le site ont été conçus par un enfant de 3 ans. À FUIR D'URGENCE",2023-01-25,2023-01,87,11.0,,,négatif,"personnel, site_app",False
+d3de20b0-d288-43c5-b27a-93cc0b3658f6,Chahra Yacouba,5,Super application,2023-01-24,2023-01,0,11.0,,,positif,site_app,False
+3a33ef49-17a8-47ae-bcf2-18b293e9b7a8,Lila lila,3,J'arrive pas écrire les commentaires en arabe,2023-01-13,2023-01,1,11.0,,,neutre,autre,False
+27eb9da5-f2e2-408d-9b57-feba2afccfd9,Sam Sung,5,عمل جيد,2023-01-13,2023-01,0,11.0,,,positif,autre,False
+6beaad03-9ab2-4804-989e-e13b00b587fc,Ahmed Labbour,5,La compagnie peut concurancer les autres a condition de baisser les prix,2023-01-08,2023-01,2,11.0,,,positif,autre,False
+0cf0c827-cd7e-4a42-bed2-5c49754b716f,Walid Aures,1,C'est nulle comme application j'ai effectué un paiement par carte dahabia on m'a débité le montant mais je n'ai pas eu mon billet. le centre d'appel m'ont dit qu'ils ne peuvent rien faire et il faut envoyer un email au helpdesk. J'ai envoyé un email mais sans aucune réponse. Tout simplement une application bidon un centre d'appels nul et j'ai perdu mon 💰 Ils ne méritent même pas une demi-étoile 👎👎👎👎👎,2023-01-06,2023-01,35,11.0,,,négatif,"bagage, site_app",False
+65853b4c-a1b8-4270-8f3d-8f6db552eab5,Walid Mb,5,Vraiment c'est une aplication très bien ilike the usa and dz 🙌🏻🙌🏻❤️‍🔥💪 .... . .. ................................................................................... . ........... ........ .............. ....,2023-01-06,2023-01,0,11.0,,,positif,autre,False
+e471e6ff-09f5-4776-9274-64ba58937d8d,naim hab,1,مازالنا بعاد على المعلوماتية، nulllllllllllllllll,2023-01-04,2023-01,0,,,,négatif,autre,False
+22802efe-1bc1-49c6-a70f-3fbe0bcdaa89,Bekihal Abdelbassit,1,اسوء تطبيق في الكرة الارضية,2022-12-29,2022-12,0,,,,négatif,autre,False
+fd83fb80-8f08-4cd5-96ee-d587dd6a2de5,Valentino Rossi,4,😊 good,2022-12-28,2022-12,0,,,,positif,autre,False
+958b5154-ba63-401e-a48c-9cd6b16e0afb,anajjar abderrahmene,4,تطبيق جيد و لكن يوجد مشكل في ورقة الحجز لا تصل للبريد الإلكتروني بعد تٱكيد الحجز و نرجوا تصلبح هاد الأمر و شكرا....,2022-12-24,2022-12,0,11.0,,,positif,autre,False
+686b91ec-bed5-41ef-91a5-da4e7d8d6350,karima Debbous,5,Très bien,2022-12-21,2022-12,0,11.0,,,positif,autre,False
+828e6f2a-8cc2-4375-a430-efd40b1cae17,Hamza Vessera,1,من أغرب التطبيقات على وجه الكرة الأرضية هل يعقل أنك تختار تواريخ للسفر و التطبيق يجيبك بعدم وجود طائرة في ذلك اليوم الذي إخترته دون أن يقترح عليك تواريخ أخرى !!!!🤨 هل يجب على المسافر أن يعلم مسبقا كل التواريخ و برنامج الطائرات إلى كل الوجهات !!! Une des applications les plus bizarres sur le visage de la Terre Est-il raisonnable que vous choisissiez des dates de voyage et l’application répond que vous n’avez pas d’avion ce jour-là sans suggérer d’autres dates!! 🤨 Si le voyageur sait à l’avan,2022-12-18,2022-12,0,11.0,,,négatif,site_app,False
+35160c93-81e9-4a3b-a4dc-294b0e0a7ccf,BOUZI CBH,1,S'il vous plaît réglé votre application beaucoup de bugs Elle nécessite une mise à jour dans l'immédiat,2022-12-13,2022-12,0,,,,négatif,site_app,False
+99bc7a78-bddf-4be2-8e7e-48a6836b0152,DZ - قناة المعلوماتية,1,"Il y a un problème lors de l'achat du billet en ligne, donc le billet n'est pas envoyé par e-mail, et vous ne répondez pas aux messages lorsque ce problème survient. Pensez-vous que nous allons perdre notre argent ?? Corrigez le problème ou supprimez l'application, cela indique que vous vous moquez des clients, cela m'a beaucoup inquiété, Si les billets s'épuisent avant que vous ne résolviez le problème ou que vous ne récupériez mon argent ......🤬🤬",2022-12-10,2022-12,110,11.0,,,négatif,site_app,False
+3c8ecf67-0725-4b37-bb82-c0402db63828,Mohamed Messaoudi,4,Tre bien,2022-12-07,2022-12,0,,,,positif,autre,False
+29c02c99-71af-419b-9ade-9472c625fd7d,R - D (“R - D”),1,Pour creer un site Demadez des conseils a Transavia et Vueling .,2022-12-05,2022-12,1,11.0,,,négatif,site_app,False
+37f78be7-e61e-4607-ac91-cf08cfdd472d,astarfolah kenny,1,Cette application nessecite que l état doit récupérer son bien avant qu il soit détruit totalement,2022-11-29,2022-11,0,11.0,,,négatif,site_app,False
+359917b6-0514-4852-8d92-13ac84f58753,Black Aigle,1,تطبيق لا علاقة لا زلتم بعيدين كل البعد عن التكنلوجيا.,2022-11-28,2022-11,0,11.0,,,négatif,autre,False
+edf672ca-d064-419b-a040-d90bc2b1a609,Ghafour Gourid,5,موقع ممتاز,2022-11-24,2022-11,0,,,,positif,autre,False
+c68c6572-32f7-4ec4-95a4-8838fe8a0ff3,Jonathan Belkacem,5,Très bien,2022-11-06,2022-11,2,7.0,,,positif,autre,False
+13a0dfa3-35a4-41ef-b649-33f686cb5ee4,taher nassim,5,تطبيق كاذب لا يمثل إلا الكذب وبعيد كل البعد عن الحقيقة عندما تذهب إلى مكاتب الخطوط الجوية الجزائرية الكاذبة التي مازالت تتعامل بالكذب,2022-11-03,2022-11,0,,,,positif,autre,False
+11ec8440-3352-40d1-83d6-91b61ca31712,Dija bel,2,Ça beug sans arret g désinstallé et ré-installé plusieurs fois,2022-10-27,2022-10,4,11.0,,,négatif,autre,False
+842b0ed2-0325-4f45-a3a3-88594ae65d1c,Ali Skandri,5,excellent,2022-10-26,2022-10,0,,,,positif,autre,False
+b2807112-7a99-499d-905d-b45065032d5b,Nebbal Mouad,3,yyytjtjtjtjjjjjjjj brut de décoffrage le numéro,2022-10-26,2022-10,1,,,,neutre,autre,False
+5e4fe10c-6985-4997-a91c-71aa98f74b61,Amel Bel,1,Une étoile parce que bizarrement de France ça marche . Mais en Algérie c'est un vrai facteur de risque cardio-vasculaires. Pour réserver un vol de bejaia à alger j ai perdu toute la journée.. plus un stress immense. Vous ne vous rendez pas compte que les urgences ça existent. Vous m avez gâché une journée importante grâce à votre incompétence. Quel fiasco !,2022-10-26,2022-10,2,11.0,,,négatif,bagage,False
+1820c495-a69f-4332-9842-3eb5ed67eb8a,You Tuber,1,"Mérite 00 étoiles, c'est nulle.",2022-10-25,2022-10,0,,,,négatif,autre,False
+f10e9c7a-f3a6-4507-80bc-b9b74fd2deaf,makhlouf nakhlati,5,أسوء طيران فالعالم,2022-10-24,2022-10,1,6.0,,,positif,autre,False
+2ba4fb31-b06c-400f-b9cb-5275d549c7ce,Zohra Fatma,1,"15min et ça ne m'affiche rien, il ne fonctionne pas hors horaire de travail Une aberration",2022-10-22,2022-10,7,11.0,,,négatif,autre,False
+d7c81438-74cd-4083-8524-92f8697cdf92,Assemahmed Waled,1,تلقى التذكرة بسومة كي تروح يطلعوها بسومة يقولك مشي صح سومتها تلقى 5 ملاين تولي عندهم ب6,2022-10-22,2022-10,0,11.0,,,négatif,autre,False
+42796865-81b8-408a-a6ee-61066f30047b,bousbaine mustapha,1,sale application,2022-10-16,2022-10,0,11.0,,,négatif,"site_app, confort",False
+6f6a37b3-293a-4eb0-b81c-7c0ef3eef046,B. TOUMI,5,Application très fort merci air Algérie,2022-10-14,2022-10,1,11.0,,,positif,site_app,False
+d85d51f0-9e9f-49a2-855e-fa323d85383c,agroo baki,1,تطبيق ثقيل جدا و غير عملي ،خاصة بعد التحديثات الأخيرة,2022-10-12,2022-10,0,11.0,,,négatif,autre,False
+6f5297a5-6382-4d9d-a5a7-544a437aaefc,mohamed talebi (“Nétoilleures”),3,Çaces 1 3,2022-10-11,2022-10,0,11.0,,,neutre,autre,False
+9dfd9959-f195-42a0-8e9c-7fafec722e0c,Malem boudje (“Malem boudjemaa”),5,Très bon service,2022-10-10,2022-10,1,11.0,,,positif,personnel,False
+bcc4dbf2-0e3d-4f40-adcd-9d4677dfc722,Omar Tayebi,5,excellente application,2022-10-10,2022-10,0,11.0,,,positif,site_app,False
+d148428d-7f44-488b-b3b7-d4c7f0cac665,Radouane Ben,3,مليحة برك,2022-10-10,2022-10,0,11.0,,,neutre,autre,False
+94c69683-1bf8-4e0c-926d-72205d3ca090,Abdelmalik Boucherit,5,Very good,2022-10-07,2022-10,0,,,,positif,autre,False
+73b961fb-1c02-4a9a-80a6-c0c584bbe493,Dounia Assil,3,C'est bien,2022-10-04,2022-10,0,,,,neutre,autre,False
+895302ce-42e6-496e-b61f-003f6e9afff9,Lahcene RAMDANI,1,Vraiment un brouillon. Ceux qui gèrent ce site manquent du professionnalisme. Et pas plus. Du bricolage fait pour détruire un peu plus Air Algérie ! C'est où vos disponibilités pour qu'on puisse choisir. C'est par tâtonnements !?,2022-10-03,2022-10,44,11.0,,,négatif,site_app,False
+ba1ca5f4-c4a7-43ec-8ab0-29aba68033f7,Mohammed Khelef,5,Tres bonne et très utile comme plateforme,2022-10-02,2022-10,15,11.0,,,positif,retard,False
+1aafdf2d-3b91-4af5-b155-434ad22639d0,bouhadjar Zine el kelma,5,Très bien,2022-09-27,2022-09,0,7.0,,,positif,autre,False
+15434fe4-daea-4f08-b671-03afa9884c3a,Ali Mansour,1,تطبيق فاشل ومريع ويحتاج التطوير ليصبح أكثر تفاعلا، لا يمكنك من عرض الرحلات القادمة الى أي مطار بينما تطبيق flyraddar يعرض لك الرحلات وبتحديث مستمر أي أنه يعرف عن الشركة أكثر منها,2022-09-16,2022-09,0,11.0,,,négatif,autre,False
+426b7442-b8e8-45c3-a8ff-95bfed817249,Redha Idriss,5,مفيدة جدا لمعرفة الرحلات,2022-09-16,2022-09,0,7.0,,,positif,autre,False
+5c3bd7c1-a7b4-4d6a-8b78-9bb745817333,amine Bhd,1,سيء جدا,2022-09-08,2022-09,0,7.0,,,négatif,autre,False
+269ddbcc-09e5-402a-9aa6-81fa491efd31,amir Amir,4,المجموع,2022-09-04,2022-09,0,,,,positif,autre,False
+3be312e1-d2a9-470c-b10f-5e30b706a9d1,hanane Sid,1,تطبيق فشل كيما نتوما,2022-09-03,2022-09,0,10.0,,,négatif,autre,False
+63daf4c9-de5f-4235-8106-67361adcb935,YFTENE SAAD,3,Encore là vous bloquez mon accès au site d air algerie.,2022-09-01,2022-09,1,7.0,,,neutre,site_app,False
+487394f7-0f87-4d33-b4ad-9af52d6fa917,hiktor ti,1,Application échec,2022-09-01,2022-09,0,7.0,,,négatif,site_app,False
+a0d8dbb4-d1ba-4a1e-8e1f-e6225600efba,DIDOUCHE Hichem,1,"Application non à jour, elle m'a trompé sur la fermeture d'enregistrement d'un vol alger annaba..!!!",2022-08-31,2022-08,1,,,,négatif,site_app,False
+bdabbe29-dde3-416a-a09d-31d56c0f8823,Dadyanis Dadyanis,5,C'est formidable,2022-08-31,2022-08,1,7.0,,,positif,autre,False
+5fe93894-5993-47c0-bf1e-8359cf890516,étoile 14,2,"aucun résultat n'apparaît, ça charge sans arrêt...",2022-08-29,2022-08,2,10.0,,,négatif,autre,False
+3398375c-c77f-4141-8a4f-efd833f1da94,Mimi Lily,5,Merci beaucoup,2022-08-28,2022-08,0,10.0,,,positif,autre,False
+50b1b4ed-1c21-4fe2-9ad7-bb9ff10f9f46,Maître Bouyahmed (“Bouyahmed”),1,je vois que l'ancienne application est mieux que cette mise à jour alors toujours je trouve des difficultés pour chercher un vol par contre l'ancien application et simple et au même temps elle est rapide alors je vous conseille de ne pas télécharger et de ma part elle mérite 0 étoile,2022-08-28,2022-08,5,,,,négatif,site_app,False
+20c671bb-0e9d-430a-91bc-908c9db5da37,Amir 49,1,كان أفضل قبل التحديث,2022-08-27,2022-08,0,7.0,,,négatif,autre,False
+26740f21-5b7b-4413-b058-d2c1bf031e42,Fatiha Abdelmoumene,1,Billet très cher impossible que vous continuez comca,2022-08-26,2022-08,1,10.0,,,négatif,autre,False
+8c1744c3-54b9-4469-b1d0-b4250616f2df,Nacer Medjkoune,1,N'importe quoi moteur de recherche qui bugs ...j'ai chercher avec un numéro de réservation sur un billet avec le nom et prénom récupéré sur un billet rien zéro n'importe quoi ....arnaque désoler je ne ment pas c la vérité voilà,2022-08-25,2022-08,9,10.0,,,négatif,site_app,False
+190ed337-9338-4545-9925-74ef7217e79d,amigo amigo,5,'meteo,2022-08-24,2022-08,0,7.0,,,positif,autre,False
+a9e2e6b3-87ae-42f8-9058-201c96af655e,1331 CERVEAU,5,Top application,2022-08-21,2022-08,0,7.0,,,positif,site_app,False
+c22591ce-10c9-4bdc-8cda-bc092369a373,yassine bouraoui,5,A recommander,2022-08-20,2022-08,1,10.0,,,positif,autre,False
